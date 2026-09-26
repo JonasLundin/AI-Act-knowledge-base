@@ -1,5 +1,8 @@
 # Jurisdictions
 
-National authorities, implementing measures and status per jurisdiction.
+Each Member State's market surveillance and notifying authorities, regulatory sandboxes, penalties and implementing measures, plus EEA status.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Structure
+
+- [EU Member States](eu-member-states/index.md): One page per Member State.
+- [EEA EFTA States](eea/index.md): Iceland, Liechtenstein and Norway.

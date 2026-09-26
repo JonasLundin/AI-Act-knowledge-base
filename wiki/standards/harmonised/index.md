@@ -1,5 +1,5 @@
-# Glossary
+# Harmonised standards
 
-Terms defined in Article 3 of Regulation (EU) 2024/1689.
+Standards requested and, once cited in the OJEU, giving presumption of conformity.
 
 No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.

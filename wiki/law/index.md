@@ -1,5 +1,7 @@
 # Law
 
-Primary legal instruments, article by article, with annexes, secondary legislation and interacting law.
+Regulation (EU) 2024/1689 article by article, its annexes, the amending Regulation (EU) 2026/1744, delegated and implementing acts, and interacting EU law.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Structure
+
+- [European Union](eu/index.md): European Union instruments and their interaction pages.

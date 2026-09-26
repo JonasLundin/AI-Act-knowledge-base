@@ -1,5 +1,5 @@
-# Glossary
+# High-risk under Annex III
 
-Terms defined in Article 3 of Regulation (EU) 2024/1689.
+One page per Annex III area, with the Article 6(3) derogation.
 
 No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.

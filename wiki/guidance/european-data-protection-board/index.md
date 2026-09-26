@@ -1,5 +1,5 @@
-# Glossary
+# European Data Protection Board
 
-Terms defined in Article 3 of Regulation (EU) 2024/1689.
+Opinions and guidance at the GDPR interface.
 
 No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.

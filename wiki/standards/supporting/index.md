@@ -1,5 +1,5 @@
-# Glossary
+# Supporting standards
 
-Terms defined in Article 3 of Regulation (EU) 2024/1689.
+ISO/IEC 42001, 23894, 5338, 24027 and others referenced in guidance.
 
 No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
