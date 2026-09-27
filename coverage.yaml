@@ -29,12 +29,14 @@ gates:
     pattern: law/eu/ai-act/articles/article-*
     expected: 113
     actual: 113
-    status: pass
+    status: partial
+    stubs: 101
   ai_act_annexes:
     pattern: law/eu/ai-act/annexes/annex-*
     expected: 13
     actual: 13
-    status: pass
+    status: partial
+    stubs: 12
   annex_iii_areas:
     pattern: systems/high-risk-annex-iii/*
     expected: 8
@@ -42,11 +44,11 @@ gates:
     status: pass
   eu_member_states:
     pattern: jurisdictions/eu-member-states/*
-    expected: 27
+    expected: null
     actual: 27
-    status: pass
+    status: partial
   eea_states:
     pattern: jurisdictions/eea/*
-    expected: 3
+    expected: null
     actual: 3
-    status: pass
+    status: partial

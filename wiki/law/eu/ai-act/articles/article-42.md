@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 42: Presumption of conformity with certain requirements'
-description: 'Provides presumption of conformity for high-risk AI systems trained and tested using specific verified standards or cybersecurity frameworks....'
+description: 'Provides presumption of conformity for high-risk AI systems trained and tested using specific verified standards or cybersecurity frameworks.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-42
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

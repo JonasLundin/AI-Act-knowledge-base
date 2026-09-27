@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 35: Identification numbers and lists of notified bodies'
-description: 'Mandates that notified bodies carry out conformity assessments in a proportionate manner avoiding unnecessary burdens while verifying compliance with ...'
+description: 'Mandates that notified bodies carry out conformity assessments in a proportionate manner avoiding unnecessary burdens while verifying compliance with.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-35
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

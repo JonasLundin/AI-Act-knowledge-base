@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 11: Technical documentation'
-description: 'Requires providers to draw up comprehensive technical documentation prior to placing a high-risk AI system on the market, in accordance with Annex IV,...'
+description: 'Requires providers to draw up comprehensive technical documentation prior to placing a high-risk AI system on the market, in accordance with Annex IV,.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-11
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

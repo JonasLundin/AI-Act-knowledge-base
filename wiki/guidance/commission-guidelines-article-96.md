@@ -35,10 +35,11 @@ x-ai-act:
 
 # Summary
 
-Official guidelines issued by the European Commission pursuant to Article 96[^regulation-eu-2024-1689] of the AI Act.
+**Commission Implementation Guidelines** are issued pursuant to Article 96 of Regulation (EU) 2024/1689[^regulation-eu-2024-1689] to facilitate practical compliance across the European Union.
 
-# Scope
-Provides clarity on the practical application of high-risk classification criteria, transparency obligations, and fundamental rights impact assessments.
+# Scope and Practical Orientation
+
+Developed in consultation with the European AI Office[^ai-office], the European AI Board, and relevant stakeholders, these guidelines provide practical orientation on high-risk classification boundaries, practical application of the Article 6(3) exception conditions, practical implementation of transparency obligations under Article 50, and fundamental rights impact assessment templates.
 
 # Related concepts
 - [Guidance Index](index.md)

@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 63: Derogations for specific operators'
-description: 'Mandates express informed consent from human subjects participating in real-world testing of high-risk AI systems....'
+description: 'Mandates express informed consent from human subjects participating in real-world testing of high-risk AI systems.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-63
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

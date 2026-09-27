@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 7: Amendments to Annex III'
-description: 'Empowers the Commission to adopt delegated acts amending Annex III by adding or modifying high-risk AI systems within the established critical areas w...'
+description: 'Empowers the Commission to adopt delegated acts amending Annex III by adding or modifying high-risk AI systems within the established critical areas w.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-7
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

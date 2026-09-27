@@ -21,7 +21,7 @@ sources:
   author: European Parliament and Council of the European Union
   last_modified: '2024-07-12T00:00:00Z'
 x-ai-act:
-  jurisdiction: NO
+  jurisdiction: 'NO'
   authority_level: binding
   instrument_status: in_force
   provision: 'Member State: Norway'

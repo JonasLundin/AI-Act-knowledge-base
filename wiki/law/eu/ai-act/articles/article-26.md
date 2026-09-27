@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 26: Obligations of deployers of high-risk AI systems'
-description: 'Establishes operational obligations for deployers of high-risk AI systems, including using systems per instructions, ensuring human oversight, monitor...'
+description: 'Establishes operational obligations for deployers of high-risk AI systems, including using systems per instructions, ensuring human oversight, monitor.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-26
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

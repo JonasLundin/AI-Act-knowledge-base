@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 22: Authorised representatives of providers of high-risk AI systems'
-description: 'Mandates non-EU established providers of high-risk AI systems to appoint an authorised representative established in the Union by written mandate prio...'
+description: 'Mandates non-EU established providers of high-risk AI systems to appoint an authorised representative established in the Union by written mandate prio.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-22
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

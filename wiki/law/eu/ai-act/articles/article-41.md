@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 41: Common specifications'
-description: 'Empowers the Commission to adopt implementing acts laying down common specifications where harmonised standards do not exist, are insufficient, or mee...'
+description: 'Empowers the Commission to adopt implementing acts laying down common specifications where harmonised standards do not exist, are insufficient, or mee.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-41
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

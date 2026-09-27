@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 46: Derogation from conformity assessment procedure'
-description: 'Authorises national market surveillance authorities to exceptionally permit placing on the market of specific high-risk AI systems for urgent public s...'
+description: 'Authorises national market surveillance authorities to exceptionally permit placing on the market of specific high-risk AI systems for urgent public s.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-46
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

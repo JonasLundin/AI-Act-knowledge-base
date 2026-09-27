@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 21: Cooperation with competent authorities'
-description: 'Requires providers of high-risk AI systems to furnish national competent authorities with all information and documentation necessary to demonstrate c...'
+description: 'Requires providers of high-risk AI systems to furnish national competent authorities with all information and documentation necessary to demonstrate c.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-21
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

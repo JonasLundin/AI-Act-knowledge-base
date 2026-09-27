@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 92: Power to conduct evaluations'
-description: 'Empowers the AI Office to conduct direct capability testing, red-teaming, and algorithmic evaluations of general-purpose AI models....'
+description: 'Empowers the AI Office to conduct direct capability testing, red-teaming, and algorithmic evaluations of general-purpose AI models.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-92
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

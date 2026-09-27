@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 71: EU database for high-risk AI systems listed in Annex III'
-description: 'Mandates the Commission, in collaboration with Member States, to establish and maintain a publicly accessible EU database for high-risk AI systems....'
+description: 'Mandates the Commission, in collaboration with Member States, to establish and maintain a publicly accessible EU database for high-risk AI systems.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-71
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

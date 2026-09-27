@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 89: Monitoring actions'
-description: 'Empowers the AI Office to monitor GPAI market developments, model releases, and systemic risk vectors....'
+description: 'Empowers the AI Office to monitor GPAI market developments, model releases, and systemic risk vectors.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-89
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

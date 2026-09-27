@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 73: Reporting of serious incidents'
-description: 'Mandates providers of high-risk AI systems to report serious incidents immediately to the market surveillance authorities of Member States where the i...'
+description: 'Mandates providers of high-risk AI systems to report serious incidents immediately to the market surveillance authorities of Member States where the i.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-73
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

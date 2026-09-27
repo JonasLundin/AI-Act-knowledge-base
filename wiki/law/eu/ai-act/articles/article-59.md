@@ -2,13 +2,14 @@
 type: Law
 title: 'Article 59: Further processing of personal data for developing certain AI
   systems in the public interest in the AI regulatory'
-description: 'Establishes a statutory legal basis for processing personal data lawfully collected for other purposes within AI regulatory sandboxes for public inter...'
+description: 'Establishes a statutory legal basis for processing personal data lawfully collected for other purposes within AI regulatory sandboxes for public inter.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-59
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

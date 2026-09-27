@@ -30,10 +30,11 @@ x-ai-act:
 
 # Definition
 
-**High-Risk AI System**: An AI system that presents a significant risk of harm to the health, safety or fundamental rights of natural persons pursuant to Article 6.[^regulation-eu-2024-1689]
+**High-Risk AI System** is defined under Articles 6(1) and 6(2) of Regulation (EU) 2024/1689[^regulation-eu-2024-1689].
 
-# Legal Context
-Defined in Article 3 of Regulation (EU) 2024/1689.
+# Classification Scope and Gateway Architecture
+
+An AI system that creates a significant risk of harm to the health, safety, or fundamental rights of natural persons. It qualifies either as a safety component of a product covered by Union harmonisation legislation listed in Annex I requiring third-party conformity assessment, or falls within one of the eight critical societal domains enumerated in Annex III unless meeting the Article 6(3) narrow procedural exception.
 
 # Related concepts
 - [Glossary Index](index.md)

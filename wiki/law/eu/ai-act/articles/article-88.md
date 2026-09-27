@@ -2,13 +2,14 @@
 type: Law
 title: 'Article 88: Enforcement of the obligations of providers of general-purpose
   AI models'
-description: 'Establishes the exclusive competence and enforcement mechanisms of the Commission (AI Office) over providers of general-purpose AI models....'
+description: 'Establishes the exclusive competence and enforcement mechanisms of the Commission (AI Office) over providers of general-purpose AI models.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-88
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

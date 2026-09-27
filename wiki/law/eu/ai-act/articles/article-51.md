@@ -43,16 +43,12 @@ Under Article 51(1)(a) and Article 51(2):
 - Providers must notify the **Commission** without delay and in any event within **2 weeks** of meeting or anticipating to meet this computational capacity threshold pursuant to Article 52(1).
 
 # Qualitative Systemic Risk Criteria (Annex XIII)
-Under Article 51(1)(b), the Commission may designate a model as posing systemic risk based on qualitative criteria set out in Annex XIII:
-- High number of registered business users or downstream applications;
-- Reach across multiple EU Member States;
-- Advanced autonomous capabilities, self-replication, or tool-use abilities;
-- Potential for chemical, biological, radiological, or nuclear (CBRN) threat facilitation or cyber offensive proliferation.
+Under Article 51(1)(b), the Commission may take decisions designating a general-purpose AI model as presenting systemic risks ex officio or following a qualified alert from the scientific panel of independent experts, having regard to the qualitative criteria and capability indicators set out in Annex XIII[^regulation-eu-2024-1689].
 
 # Related concepts
 - [Article 52: Procedure for Classification](article-52.md)
 - [Article 53: Obligations for Providers of GPAI Models](article-53.md)
 - [Article 55: Obligations for Providers of GPAI Models with Systemic Risk](article-55.md)
-- [GPAI Baseline Obligations](../../../../obligations/general-purpose-ai/gpai-baseline-obligations.md)
+- [GPAI Baseline Obligations](/obligations/general-purpose-ai/gpai-baseline-obligations.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

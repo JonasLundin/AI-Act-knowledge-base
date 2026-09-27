@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 15: Accuracy, robustness and cybersecurity'
-description: 'Mandates that high-risk AI systems achieve appropriate levels of accuracy, robustness against errors and adversarial inputs, and cybersecurity resilie...'
+description: 'Mandates that high-risk AI systems achieve appropriate levels of accuracy, robustness against errors and adversarial inputs, and cybersecurity resilie.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-15
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

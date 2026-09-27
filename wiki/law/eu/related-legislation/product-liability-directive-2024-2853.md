@@ -40,7 +40,7 @@ x-ai-act:
 # Interplay with the AI Act
 - **Definition of Product**: Software and standalone AI systems are explicitly classified as products subject to strict no-fault liability.
 - **Disclosure of Evidence**: Injured persons can request national courts to order providers of high-risk AI systems to disclose relevant technical documentation (such as Annex IV dossiers and logs).
-- **Rebuttable Presumption of Defect**: If a provider fails to comply with AI Act risk management, cybersecurity, or transparency obligations, courts may apply a rebuttable presumption that the system was defective and that the defect caused the harm.
+- **Rebuttable Presumption of Defect**: If a provider fails to comply with AI Act[^regulation-eu-2024-1689] risk management, cybersecurity, or transparency obligations, courts may apply a rebuttable presumption that the system was defective and that the defect caused the harm.
 
 # Related concepts
 - [Related Legislation Index](index.md)

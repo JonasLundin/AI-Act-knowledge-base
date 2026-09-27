@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 98: Committee procedure'
-description: 'Establishes the examination and advisory committee procedures governing the adoption of Commission implementing acts under Regulation (EU) No 182/2011...'
+description: 'Establishes the examination and advisory committee procedures governing the adoption of Commission implementing acts under Regulation (EU) No 182/2011.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-98
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

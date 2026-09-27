@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 66: Tasks of the Board'
-description: 'Specifies the advisory, coordinating, and standardisation-guidance tasks performed by the European Artificial Intelligence Board....'
+description: 'Specifies the advisory, coordinating, and standardisation-guidance tasks performed by the European Artificial Intelligence Board.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-66
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

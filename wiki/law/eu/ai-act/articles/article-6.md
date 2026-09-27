@@ -23,9 +23,9 @@ sources:
   last_modified: '2024-07-12T00:00:00Z'
 - id: regulation-eu-2026-1744
   resource: http://data.europa.eu/eli/reg/2026/1744/oj
-  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems
+  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)
   author: European Parliament and Council of the European Union
-  last_modified: '2026-07-24T00:00:00Z'
+  last_modified: '2026-07-08T00:00:00Z'
 x-ai-act:
   jurisdiction: EU
   authority_level: binding
@@ -60,9 +60,9 @@ x-ai-act:
 
 # Safety Component Clarifications (Article 6(1a)–(1c))
 Inserted by Regulation (EU) 2026/1744[^regulation-eu-2026-1744]:
-- **Paragraph 1a**: Clarifies the determination of safety components for complex industrial machinery and aviation equipment, ensuring that software modules functioning exclusively as diagnostic or maintenance monitors without direct actuator control do not trigger duplicate conformity assessment.
-- **Paragraph 1b**: Coordinates sector-specific conformity assessment procedures under Union harmonisation legislation, avoiding redundant notified body reviews.
-- **Paragraph 1c**: Aligns technical specifications between harmonised European standards under the AI Act and relevant sectoral standards.
+- **Paragraph 1a**: Clarifies that AI systems used for purposes other than the safety functions of products covered by Annex I Union harmonisation legislation are excluded from the scope of high-risk classification under paragraph 1 (non-safety uses excluded).
+- **Paragraph 1b**: Clarifies that an AI system that is a safety component of a product, or is itself a product, which endangers the health or safety of persons is included as high-risk even if not specifically identified under Annex I (health/safety-endangering AI included).
+- **Paragraph 1c**: Specifies that where third-party conformity assessment under Annex I Union harmonisation legislation addresses aspects other than health and safety (e.g. electromagnetic compatibility or energy labelling alone), such assessment does not satisfy the condition of Article 6(1)(b) (non-H&S third-party assessment does not meet 6(1)(b)).
 
 # The Article 6(3) Derogation
 An AI system listed in Annex III is **not** high-risk if it does not pose a significant risk of harm to health, safety, or fundamental rights, satisfying one of four conditions:
@@ -81,4 +81,4 @@ An AI system listed in Annex III is **not** high-risk if it does not pose a sign
 - [Annex III High-Risk AI Systems](../annexes/annex-3.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj
-[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems, http://data.europa.eu/eli/reg/2026/1744/oj
+[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI), http://data.europa.eu/eli/reg/2026/1744/oj

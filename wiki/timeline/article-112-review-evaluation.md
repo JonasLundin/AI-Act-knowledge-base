@@ -30,10 +30,15 @@ x-ai-act:
 
 # Summary
 
-**2 August 2028 and Quadrennially Thereafter**: Under **Article 112**, the Commission assesses the need for amendments to the high-risk classification list (Annex III), prohibitions (Article 5), and GPAI thresholds, submitting comprehensive evaluation reports to the European Parliament and Council[^regulation-eu-2024-1689].
+**2 August 2028 / 2 August 2029**: Periodic review and evaluation milestones pursuant to Article 112 of Regulation (EU) 2024/1689[^regulation-eu-2024-1689].
+
+# Statutory Evaluation Obligations
+
+By 2 August 2028, and every four years thereafter, the European Commission must submit an evaluation report to the European Parliament and the Council assessing the practical enforcement of the AI Act. This comprehensive review specifically evaluates the functioning of the European AI Office, the list of prohibited practices under Article 5, the high-risk classification criteria under Article 6 and Annex III, and the emerging market impact on small and medium-sized enterprises.
 
 # Related concepts
 - [Timeline Index](index.md)
 - [Article 112: Review and Evaluation](../law/eu/ai-act/articles/article-112.md)
+- [Article 113: Entry into Force and Application](../law/eu/ai-act/articles/article-113.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

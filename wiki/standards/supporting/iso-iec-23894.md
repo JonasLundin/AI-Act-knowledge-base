@@ -34,7 +34,11 @@ x-ai-act:
 
 # Summary
 
-**ISO/IEC 23894:2023** provides guidance on managing risk in AI systems[^iso-iec-23894], applying the principles of ISO 31000 to the specific characteristics of artificial intelligence. It serves as an international benchmark directly supporting compliance with **Article 9 (Risk management system)** of the AI Act[^regulation-eu-2024-1689].
+**ISO/IEC 23894:2023** provides guidance on managing risks related to the development, deployment, and use of artificial intelligence within organizations[^iso-iec-23894]. It operationalizes the general principles of ISO 31000 for the distinct probabilistic vulnerabilities of AI systems.
+
+# Role in AI Act Compliance
+
+The standard serves as an informative technical reference supporting provider compliance with Article 9 (Risk Management System) of Regulation (EU) 2024/1689[^regulation-eu-2024-1689]. It establishes iterative risk assessment processes spanning data acquisition, model training, evaluation, and post-deployment monitoring. Providers of high-risk AI systems utilize ISO/IEC 23894 guidelines to structure risk identification across technical, ethical, and societal dimensions.
 
 # Related concepts
 - [Supporting Standards Index](index.md)

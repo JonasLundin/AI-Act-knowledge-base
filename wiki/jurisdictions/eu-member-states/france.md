@@ -35,7 +35,7 @@ Implementation, market surveillance structure, notifying authorities, and AI reg
 # National Authorities
 
 ## Market Surveillance Authority
-Commission Nationale de l'Informatique et des Libertés (CNIL) for fundamental rights / biometrics, and Direction Générale des Entreprises (DGE) with sectoral regulators (ANSSI, ANSM, ACPR, AMF).
+Proposed market surveillance architecture: Commission Nationale de l'Informatique et des Libertés (CNIL) for fundamental rights, biometrics, and high-risk AI supervision; Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF) proposed for consumer protection and market surveillance; coordinated with Direction Générale des Entreprises (DGE) and sectoral regulators (ANSSI, ANSM, ACPR, AMF).
 
 ## Notifying Authority
 Direction Générale des Entreprises (DGE) / COFRAC accreditation.
@@ -47,7 +47,7 @@ Official Journal of the French Republic (Journal Officiel de la République Fran
 CNIL AI regulatory sandbox operational since 2022 supporting health, education, and public service AI.
 
 # Legislative and Implementation Status
-Interministerial AI regulation coordination circular established under the Prime Minister.
+Proposed national implementation framework pending legislative enactment; interministerial coordination circular established under the Prime Minister to finalize designation decrees for CNIL and DGCCRF.
 
 # Related concepts
 - [EU Member States Index](index.md)

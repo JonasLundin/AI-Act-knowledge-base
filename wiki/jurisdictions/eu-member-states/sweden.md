@@ -35,7 +35,7 @@ Implementation, market surveillance structure, notifying authorities, and AI reg
 # National Authorities
 
 ## Market Surveillance Authority
-Swedish Post and Telecom Authority (Post- och telestyrelsen - PTS) designated as the single point of contact and lead market surveillance authority, coordinating with the Swedish Privacy Protection Authority (IMY) and Swedish Consumer Agency (Konsumentverket).
+Proposed market surveillance authority: Swedish Post and Telecom Authority (Post- och telestyrelsen - PTS) proposed as single point of contact and lead coordinating market surveillance authority under Article 70, coordinating with the Swedish Privacy Protection Authority (Integritetsskyddsmyndigheten - IMY) and Swedish Consumer Agency (Konsumentverket).
 
 ## Notifying Authority
 SWEDAC (Styrelsen för ackreditering och teknisk kontroll).
@@ -47,7 +47,7 @@ Swedish Code of Statutes (Svensk författningssamling - SFS).
 PTS and Vinnova pilot AI regulatory sandboxes.
 
 # Legislative and Implementation Status
-Government commission report (SOU 2024:xx) proposing PTS as lead coordinating authority under Article 70.
+Proposed legislation set out in Government Commission Official Inquiry SOU 2025:101, formally proposing PTS as single point of contact and lead market surveillance authority.
 
 # Related concepts
 - [EU Member States Index](index.md)

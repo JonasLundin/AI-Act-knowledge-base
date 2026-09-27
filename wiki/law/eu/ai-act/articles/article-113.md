@@ -24,9 +24,9 @@ sources:
   last_modified: '2024-07-12T00:00:00Z'
 - id: regulation-eu-2026-1744
   resource: http://data.europa.eu/eli/reg/2026/1744/oj
-  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems
+  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)
   author: European Parliament and Council of the European Union
-  last_modified: '2026-07-24T00:00:00Z'
+  last_modified: '2026-07-08T00:00:00Z'
 x-ai-act:
   jurisdiction: EU
   authority_level: binding
@@ -58,7 +58,7 @@ x-ai-act:
 - [Article 6: Classification Rules for High-Risk AI Systems](article-6.md)
 - [Article 50: Transparency Obligations](article-50.md)
 - [Article 111: Transitional Provisions](article-111.md)
-- [Timeline Index](../../../../timeline/index.md)
+- [Timeline Index](/timeline/index.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj
-[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems, http://data.europa.eu/eli/reg/2026/1744/oj
+[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI), http://data.europa.eu/eli/reg/2026/1744/oj

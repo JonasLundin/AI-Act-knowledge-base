@@ -41,6 +41,6 @@ The AI Act operates without prejudice to Union data protection legislation, spec
 
 # Related concepts
 - [Related Legislation Index](index.md)
-- [Fundamental Rights Impact Assessment](../../../obligations/deployers/deployer-operational-obligations.md)
+- [Fundamental Rights Impact Assessment](/obligations/deployers/deployer-operational-obligations.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

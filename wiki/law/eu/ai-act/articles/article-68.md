@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 68: Scientific panel of independent experts'
-description: 'Creates the Scientific Panel of independent experts to advise the AI Office on GPAI risks, evaluate models, and issue qualified systemic risk alerts....'
+description: 'Creates the Scientific Panel of independent experts to advise the AI Office on GPAI risks, evaluate models, and issue qualified systemic risk alerts.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-68
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

@@ -24,9 +24,9 @@ sources:
   last_modified: '2024-07-12T00:00:00Z'
 - id: regulation-eu-2026-1744
   resource: http://data.europa.eu/eli/reg/2026/1744/oj
-  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems
+  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)
   author: European Parliament and Council of the European Union
-  last_modified: '2026-07-24T00:00:00Z'
+  last_modified: '2026-07-08T00:00:00Z'
 x-ai-act:
   jurisdiction: EU
   authority_level: binding
@@ -74,7 +74,6 @@ x-ai-act:
 Under Article 50(2), technical watermarking solutions must be:
 - Effective, interoperable, robust, and reliable as far as technically feasible;
 - Proportionate to the state of the art and specific characteristics of the media modality;
-- Capable of detection by automated crawlers and platforms.
 
 # Exemptions and Article 50(7)
 Under Article 50(5) and 50(7) (as amended by Regulation (EU) 2026/1744), transparency obligations do not apply to AI systems authorised by law for law enforcement criminal detection/investigation, nor to content that has undergone human review and editorial control where an editor holds legal responsibility.
@@ -87,4 +86,4 @@ Under Article 50(5) and 50(7) (as amended by Regulation (EU) 2026/1744), transpa
 - [Article 113: Entry into Force and Application](article-113.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj
-[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems, http://data.europa.eu/eli/reg/2026/1744/oj
+[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI), http://data.europa.eu/eli/reg/2026/1744/oj

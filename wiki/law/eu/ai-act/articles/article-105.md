@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 105: Amendment to Directive 2014/90/EU'
-description: 'Amends Directive 2014/90/EU on marine equipment to incorporate AI Act conformity assessments into marine safety equipment testing....'
+description: 'Amends Directive 2014/90/EU on marine equipment to incorporate AI Act conformity assessments into marine safety equipment testing.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-105
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

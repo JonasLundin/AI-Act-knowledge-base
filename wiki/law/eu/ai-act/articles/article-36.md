@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 36: Changes to notifications'
-description: 'Mandates the Commission to assign identification numbers to notified bodies and publish the official register in the NANDO database....'
+description: 'Mandates the Commission to assign identification numbers to notified bodies and publish the official register in the NANDO database.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-36
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

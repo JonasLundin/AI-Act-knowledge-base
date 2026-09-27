@@ -9,6 +9,7 @@ tags:
 - regulation
 - article
 - article-12
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

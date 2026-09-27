@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 90: Alerts of systemic risks by the scientific panel'
-description: 'Authorises the Scientific Panel of independent experts to issue qualified alerts to the AI Office regarding systemic risks posed by general-purpose AI...'
+description: 'Authorises the Scientific Panel of independent experts to issue qualified alerts to the AI Office regarding systemic risks posed by general-purpose AI.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-90
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

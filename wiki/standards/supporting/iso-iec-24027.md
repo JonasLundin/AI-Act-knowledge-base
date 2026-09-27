@@ -35,11 +35,16 @@ x-ai-act:
 
 # Summary
 
-**ISO/IEC TR 24027:2021** addresses bias in AI systems and AI-aided decision making[^iso-iec-24027]. It provides measurement techniques, assessment methodologies, and mitigation workflows that assist providers in complying with **Article 10 (Data and data governance)** of the AI Act[^regulation-eu-2024-1689].
+**ISO/IEC 24027:2021** addresses bias in AI systems, especially regarding automated decision-making and machine learning algorithms[^iso-iec-24027]. It defines measurement metrics, statistical techniques, and mitigation workflows for algorithmic bias.
+
+# Alignment with Article 10 Data Governance
+
+This international standard directly supports the data governance mandates of Article 10(2)(f) of Regulation (EU) 2024/1689[^regulation-eu-2024-1689], which obligates providers of high-risk AI systems to examine training, validation, and testing datasets for possible biases that may impact fundamental rights or health and safety. The standard outlines practical steps for data filtering, demographic parity metrics, and fairness-aware training interventions.
 
 # Related concepts
 - [Supporting Standards Index](index.md)
 - [Article 10: Data and Data Governance](../../law/eu/ai-act/articles/article-10.md)
+- [ISO/IEC 42001](iso-iec-42001.md)
 
-[^iso-iec-24027]: International Organization for Standardization, ISO/IEC TR 24027:2021 Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making, https://www.iso.org/standard/77607.html
+[^iso-iec-24027]: International Organization for Standardization, ISO/IEC 24027:2021 Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making, https://www.iso.org/standard/77607.html
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

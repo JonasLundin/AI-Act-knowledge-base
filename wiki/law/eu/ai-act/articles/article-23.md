@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 23: Obligations of importers'
-description: 'Sets out verification, storage, transport, and cooperative duties for importers placing third-country high-risk AI systems on the Union market....'
+description: 'Sets out verification, storage, transport, and cooperative duties for importers placing third-country high-risk AI systems on the Union market.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-23
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

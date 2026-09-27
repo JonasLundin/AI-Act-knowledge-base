@@ -52,5 +52,5 @@ Deployers must submit the completed FRIA summary to the designated market survei
 # Related concepts
 - [Article 26: Obligations of Deployers](article-26.md)
 - [Article 6: Classification Rules for High-Risk AI Systems](article-6.md)
-- [Fundamental Rights Impact Assessment Overview](../../../../obligations/deployers/fundamental-rights-impact-assessment.md)
+- [Fundamental Rights Impact Assessment Overview](/obligations/deployers/fundamental-rights-impact-assessment.md)
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

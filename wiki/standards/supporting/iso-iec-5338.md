@@ -34,11 +34,16 @@ x-ai-act:
 
 # Summary
 
-**ISO/IEC 5338:2023** defines AI system life cycle processes[^iso-iec-5338] by extending the software lifecycle standard ISO/IEC/IEEE 12207. It establishes technical processes across data management, model training, evaluation, verification, and deployment that support compliance with **Article 17 (Quality management system)** of the AI Act[^regulation-eu-2024-1689].
+**ISO/IEC 5338:2023** defines AI system life cycle processes, adapting traditional systems and software engineering life cycle standards (ISO/IEC/IEEE 12207) to the iterative characteristics of machine learning models[^iso-iec-5338].
+
+# Implementation for Quality Management
+
+Under Article 17 of Regulation (EU) 2024/1689[^regulation-eu-2024-1689], providers of high-risk AI systems must establish and maintain a documented quality management system. ISO/IEC 5338 establishes structured engineering life-cycle gates spanning requirements definition, data engineering, model development, verification, validation, deployment, operation, and model deprecation, providing demonstrable evidence of robust system lifecycle controls.
 
 # Related concepts
 - [Supporting Standards Index](index.md)
 - [Article 17: Quality Management System](../../law/eu/ai-act/articles/article-17.md)
+- [ISO/IEC 42001](iso-iec-42001.md)
 
 [^iso-iec-5338]: International Organization for Standardization, ISO/IEC 5338:2023 Information technology — Artificial intelligence — AI system life cycle processes, https://www.iso.org/standard/81118.html
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

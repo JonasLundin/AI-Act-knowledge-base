@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 82: Compliant AI systems which present a risk'
-description: 'Empowers market surveillance authorities to require economic operators to remedy administrative deficiencies such as missing CE markings or incomplete...'
+description: 'Empowers market surveillance authorities to require economic operators to remedy administrative deficiencies such as missing CE markings or incomplete.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-82
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

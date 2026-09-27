@@ -35,7 +35,7 @@ Implementation, market surveillance structure, notifying authorities, and AI reg
 # National Authorities
 
 ## Market Surveillance Authority
-Dutch Data Protection Authority (Autoriteit Persoonsgegevens / AP) coordinating AI supervision through its Algoritmetoezichthouder division, alongside Rijksinspectie Digitale Infrastructuur (RDI).
+Proposed market surveillance model: Ten sectoral supervisory authorities with Rijksinspectie Digitale Infrastructuur (RDI) proposed as the Single Point of Contact (SPOC) and lead coordinator under Article 70, in close operational partnership with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens / AP, via the Algorithm Coordination Directorate) and sectoral regulators.
 
 ## Notifying Authority
 Dutch Accreditation Council (Raad voor Accreditatie - RvA).
@@ -47,7 +47,7 @@ Government Gazette (Staatscourant).
 Dutch Regulatory Sandbox for AI managed by AP and sectoral regulators.
 
 # Legislative and Implementation Status
-National Algorithm Coordination Mechanism established; legislative proposal assigning lead roles to AP and RDI.
+Proposed implementation act in draft; National Algorithm Coordination Mechanism established pending formal parliamentary enactment of RDI as statutory SPOC.
 
 # Related concepts
 - [EU Member States Index](index.md)

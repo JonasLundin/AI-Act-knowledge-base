@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 28: Notifying authorities'
-description: 'Requires Member States to designate or establish notifying authorities responsible for setting up and carrying out assessment, notification, and monit...'
+description: 'Requires Member States to designate or establish notifying authorities responsible for setting up and carrying out assessment, notification, and monit.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-28
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

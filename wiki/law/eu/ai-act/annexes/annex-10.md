@@ -10,6 +10,7 @@ tags:
 - ai-act
 - annex
 - annex-10
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

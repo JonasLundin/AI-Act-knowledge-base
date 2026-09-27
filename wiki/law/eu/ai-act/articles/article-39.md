@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 39: Conformity assessment bodies of third countries'
-description: 'Mandates the establishment and operation of a coordination group of notified bodies to ensure consistent application of assessment criteria....'
+description: 'Mandates the establishment and operation of a coordination group of notified bodies to ensure consistent application of assessment criteria.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-39
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

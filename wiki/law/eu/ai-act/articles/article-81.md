@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 81: Union safeguard procedure'
-description: 'Authorises authorities to take protective measures against AI systems that comply formally with statutory rules but nonetheless present unforeseen ris...'
+description: 'Authorises authorities to take protective measures against AI systems that comply formally with statutory rules but nonetheless present unforeseen ris.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-81
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

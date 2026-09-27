@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 53: Obligations for providers of general-purpose AI models'
-description: 'Establishes baseline documentation, copyright compliance policies, and public training summaries required of all GPAI model providers....'
+description: 'Establishes baseline documentation, copyright compliance policies, and public training summaries required of all GPAI model providers.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-53
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

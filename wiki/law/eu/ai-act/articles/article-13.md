@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 13: Transparency and provision of information to deployers'
-description: 'Mandates that high-risk AI systems be designed to ensure sufficient transparency enabling deployers to interpret system outputs and use them appropria...'
+description: 'Mandates that high-risk AI systems be designed to ensure sufficient transparency enabling deployers to interpret system outputs and use them appropria.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-13
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

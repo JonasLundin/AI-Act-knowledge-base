@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 84: Union AI testing support structures'
-description: 'Grants any natural or legal person having reason to believe there is an infringement of the AI Act the right to submit a complaint to the relevant mar...'
+description: 'Grants any natural or legal person having reason to believe there is an infringement of the AI Act the right to submit a complaint to the relevant mar.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-84
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

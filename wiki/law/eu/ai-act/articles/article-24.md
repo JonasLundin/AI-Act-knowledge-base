@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 24: Obligations of distributors'
-description: 'Requires distributors to verify CE marking, documentation, and provider compliance prior to making high-risk AI systems available on the market....'
+description: 'Requires distributors to verify CE marking, documentation, and provider compliance prior to making high-risk AI systems available on the market.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-24
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

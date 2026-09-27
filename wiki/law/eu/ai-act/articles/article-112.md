@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 112: Evaluation and review'
-description: 'Establishes a mandatory review cycle under which the Commission submits comprehensive evaluation reports on the AI Act to the European Parliament and ...'
+description: 'Establishes a mandatory review cycle under which the Commission submits comprehensive evaluation reports on the AI Act to the European Parliament and.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-112
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

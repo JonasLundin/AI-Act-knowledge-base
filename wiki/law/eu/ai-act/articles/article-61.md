@@ -2,13 +2,14 @@
 type: Law
 title: 'Article 61: Informed consent to participate in testing in real world conditions
   outside AI regulatory sandboxes'
-description: 'Provides microenterprises and specific operators with simplified administrative obligations where proportionate....'
+description: 'Provides microenterprises and specific operators with simplified administrative obligations where proportionate.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-61
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

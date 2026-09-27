@@ -35,7 +35,7 @@ Implementation, market surveillance structure, notifying authorities, and AI reg
 # National Authorities
 
 ## Market Surveillance Authority
-Federal Network Agency (Bundesnetzagentur / BNetzA) designated as single point of contact and lead market surveillance authority, in coordination with the Federal Commissioner for Data Protection and Freedom of Information (BfDI) and Federal Office for Information Security (BSI).
+Proposed market surveillance framework: Federal Network Agency (Bundesnetzagentur / BNetzA) proposed as single point of contact and central market surveillance authority under Article 70, in institutional coordination with the Federal Commissioner for Data Protection and Freedom of Information (BfDI) and Federal Office for Information Security (BSI).
 
 ## Notifying Authority
 Federal Ministry for Economic Affairs and Climate Action (BMWK) / DAkkS.
@@ -47,7 +47,7 @@ Federal Law Gazette (Bundesgesetzblatt - BGBl.).
 BMWK Regulatory Sandboxes (Reallabore) initiative supporting AI testing.
 
 # Legislative and Implementation Status
-Draft AI Act Implementation Act (KI-Durchführungsgesetz) designating BNetzA as lead coordinator.
+Proposed AI Market Surveillance and Innovation Act (KI-Marktüberwachungs- und Innovationsgesetz - KI-MIG) and draft KI-Durchführungsgesetz proposing BNetzA as lead coordinator.
 
 # Related concepts
 - [EU Member States Index](index.md)

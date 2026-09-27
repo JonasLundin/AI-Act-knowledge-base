@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 33: Subsidiaries of notified bodies and subcontracting'
-description: 'Establishes presumption of conformity for conformity assessment bodies demonstrating accreditation under relevant harmonised standards pursuant to Reg...'
+description: 'Establishes presumption of conformity for conformity assessment bodies demonstrating accreditation under relevant harmonised standards pursuant to Reg.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-33
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

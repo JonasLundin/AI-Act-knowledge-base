@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 93: Power to request measures'
-description: 'Authorises the AI Office to issue binding decisions requiring GPAI providers to take risk mitigation measures, recall models, or suspend market availa...'
+description: 'Authorises the AI Office to issue binding decisions requiring GPAI providers to take risk mitigation measures, recall models, or suspend market availa.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-93
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

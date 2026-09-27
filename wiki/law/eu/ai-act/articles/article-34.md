@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 34: Operational obligations of notified bodies'
-description: 'Regulates conditions under which notified bodies may subcontract specific tasks or delegate them to subsidiaries while retaining full liability....'
+description: 'Regulates conditions under which notified bodies may subcontract specific tasks or delegate them to subsidiaries while retaining full liability.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-34
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

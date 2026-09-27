@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 77: Powers of authorities protecting fundamental rights'
-description: 'Grants market surveillance authorities comprehensive investigative powers, including full access to training data, documentation, and source code upon...'
+description: 'Grants market surveillance authorities comprehensive investigative powers, including full access to training data, documentation, and source code upon.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-77
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

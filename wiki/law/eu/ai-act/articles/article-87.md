@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 87: Reporting of infringements and protection of reporting persons'
-description: 'Applies the whistleblower protection framework of Directive (EU) 2019/1937 to individuals reporting breaches and infringements of the AI Act....'
+description: 'Applies the whistleblower protection framework of Directive (EU) 2019/1937 to individuals reporting breaches and infringements of the AI Act.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-87
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

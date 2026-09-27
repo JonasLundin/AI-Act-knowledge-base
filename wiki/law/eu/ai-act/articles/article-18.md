@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 18: Documentation keeping'
-description: 'Mandates providers to maintain the technical documentation, declaration of conformity, and relevant decisions for 10 years after the AI system has bee...'
+description: 'Mandates providers to maintain the technical documentation, declaration of conformity, and relevant decisions for 10 years after the AI system has bee.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-18
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

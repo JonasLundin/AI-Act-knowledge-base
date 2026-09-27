@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 91: Power to request documentation and information'
-description: 'Grants the AI Office powers to require GPAI model providers to furnish technical documentation, parameters, and evaluations....'
+description: 'Grants the AI Office powers to require GPAI model providers to furnish technical documentation, parameters, and evaluations.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-91
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

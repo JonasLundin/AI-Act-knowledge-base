@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 16: Obligations of providers of high-risk AI systems'
-description: 'Enumerates the fundamental compliance obligations incumbent upon providers of high-risk AI systems, including QMS, technical documentation, logs, conf...'
+description: 'Enumerates the fundamental compliance obligations incumbent upon providers of high-risk AI systems, including QMS, technical documentation, logs, conf.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-16
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

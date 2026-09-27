@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 17: Quality management system'
-description: 'Requires high-risk AI providers to establish a documented quality management system (QMS) ensuring regulatory compliance through clear policies, proce...'
+description: 'Requires high-risk AI providers to establish a documented quality management system (QMS) ensuring regulatory compliance through clear policies, proce.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-17
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

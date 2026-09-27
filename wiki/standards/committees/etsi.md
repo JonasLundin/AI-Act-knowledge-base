@@ -29,7 +29,11 @@ x-ai-act:
 
 # Summary
 
-**ETSI (European Telecommunications Standards Institute)** is one of the three officially recognised European Standardisation Organisations (ESOs). Its work on Artificial Intelligence focuses on network intelligence, cybersecurity, testing, and telecommunication infrastructure applications[^regulation-eu-2024-1689].
+**ETSI (European Telecommunications Standards Institute)** is one of the three officially recognised European Standardisation Organisations (ESOs) under Regulation (EU) No 1025/2012. Its work on Artificial Intelligence focuses on operational network intelligence, algorithmic cybersecurity, conformance testing, and telecommunication infrastructure applications[^regulation-eu-2024-1689].
+
+# Technical Standardization Work
+
+Within the framework of standardisation requests issued by the European Commission pursuant to Article 40 of the AI Act, ETSI contributes specialized telecommunication and security specifications. ETSI Technical Committee SAI (Securing Artificial Intelligence) addresses threats arising from machine learning deployments, including adversarial data poisoning, model evasion, and privacy-preserving inference across European digital networks.
 
 # Related concepts
 - [Committees Index](index.md)

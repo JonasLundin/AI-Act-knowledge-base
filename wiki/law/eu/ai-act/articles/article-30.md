@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 30: Notification procedure'
-description: 'Specifies the application process and required documentation for conformity assessment bodies seeking notification under the AI Act....'
+description: 'Specifies the application process and required documentation for conformity assessment bodies seeking notification under the AI Act.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-30
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

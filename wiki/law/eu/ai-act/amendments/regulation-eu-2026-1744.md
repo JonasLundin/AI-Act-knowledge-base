@@ -17,9 +17,9 @@ stale_after: '2027-08-02T00:00:00Z'
 sources:
 - id: regulation-eu-2026-1744
   resource: http://data.europa.eu/eli/reg/2026/1744/oj
-  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems
+  title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)
   author: European Parliament and Council of the European Union
-  last_modified: '2026-07-24T00:00:00Z'
+  last_modified: '2026-07-08T00:00:00Z'
 - id: regulation-eu-2024-1689
   resource: http://data.europa.eu/eli/reg/2024/1689/oj
   title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)
@@ -45,7 +45,7 @@ ELI: [http://data.europa.eu/eli/reg/2026/1744/oj](http://data.europa.eu/eli/reg/
 |---|---|---|
 | **Article 5(1)** | Adds point (ba) prohibiting AI generating non-consensual sexually explicit deepfakes / intimate imagery, and point (bb) prohibiting AI generating or facilitating Child Sexual Abuse Material (CSAM). | Applies from 2 December 2026. |
 | **Article 5(1a), (1b)** | Inserts supplementary enforcement and procedural safeguards for the new prohibitions. | Applies from 2 December 2026. |
-| **Article 6(1a)–(1c)** | Clarifies the boundaries of safety components under Union harmonisation legislation listed in Annex I and coordinates conformity assessment procedures with sector-specific Union acts. | Applies alongside respective Annex I timelines. |
+| **Article 6(1a)–(1c)** | Clarifies safety component classification: excludes non-safety uses (1a), includes health/safety-endangering AI (1b), and clarifies that non-H&S third-party assessment does not meet Article 6(1)(b) (1c). | Applies alongside respective Annex I timelines. |
 | **Article 50(7)** | Adjusts specific marking and machine-readability exemptions for synthetic content. | Applies from 2 August 2026. |
 | **Article 99(4)** | Inserts new point (da) adding Article 25 to the list of infringements punishable under the Tier 2 fine ceiling (€15M / 3%). | Applies from 2 August 2026. |
 | **Article 99(6a)** | Introduces a dedicated turnover-proportionality cap for medium-sized enterprises to prevent disproportionate economic impacts. | Applies from 2 August 2026. |
@@ -61,5 +61,5 @@ ELI: [http://data.europa.eu/eli/reg/2026/1744/oj](http://data.europa.eu/eli/reg/
 - [Article 111: Transitional Provisions](../articles/article-111.md)
 - [Article 113: Entry into Force and Application](../articles/article-113.md)
 
-[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems, http://data.europa.eu/eli/reg/2026/1744/oj
+[^regulation-eu-2026-1744]: European Parliament and Council of the European Union, Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI), http://data.europa.eu/eli/reg/2026/1744/oj
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

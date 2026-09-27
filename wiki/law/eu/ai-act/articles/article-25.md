@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 25: Responsibilities along the AI value chain'
-description: 'Defines the legal conditions under which distributors, importers, deployers, or third parties become classified as providers and assume full provider ...'
+description: 'Defines the legal conditions under which distributors, importers, deployers, or third parties become classified as providers and assume full provider.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-25
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

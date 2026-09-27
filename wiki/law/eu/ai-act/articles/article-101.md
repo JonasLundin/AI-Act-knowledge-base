@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 101: Fines for providers of general-purpose AI models'
-description: 'Empowers the Commission to impose administrative fines up to €15,000,000 or 3% of worldwide annual turnover on GPAI providers for Chapter V violations...'
+description: 'Empowers the Commission to impose administrative fines up to €15,000,000 or 3% of worldwide annual turnover on GPAI providers for Chapter V violations.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-101
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

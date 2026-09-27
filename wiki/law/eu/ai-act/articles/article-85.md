@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 85: Right to lodge a complaint with a market surveillance authority'
-description: 'Authorises natural persons to mandate qualified representative organisations (such as consumer protection or fundamental rights NGOs) to lodge complai...'
+description: 'Authorises natural persons to mandate qualified representative organisations (such as consumer protection or fundamental rights NGOs) to lodge complai.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-85
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

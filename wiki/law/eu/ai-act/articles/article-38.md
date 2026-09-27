@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 38: Coordination of notified bodies'
-description: 'Empowers the Commission to investigate cases where competence or compliance of a notified body is questioned by Member States....'
+description: 'Empowers the Commission to investigate cases where competence or compliance of a notified body is questioned by Member States.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-38
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

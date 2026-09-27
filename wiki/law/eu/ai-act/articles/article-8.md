@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 8: Compliance with the requirements'
-description: 'Establishes that high-risk AI systems must comply with the mandatory requirements set out in Chapter III, Section 2 (Articles 9 to 15), taking into ac...'
+description: 'Establishes that high-risk AI systems must comply with the mandatory requirements set out in Chapter III, Section 2 (Articles 9 to 15), taking into ac.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-8
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

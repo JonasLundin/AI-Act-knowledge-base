@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 40: Harmonised standards and standardisation deliverables'
-description: 'Establishes that high-risk AI systems and GPAI models conforming to harmonised standards cited in the Official Journal benefit from a legal presumptio...'
+description: 'Establishes that high-risk AI systems and GPAI models conforming to harmonised standards cited in the Official Journal benefit from a legal presumptio.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-40
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

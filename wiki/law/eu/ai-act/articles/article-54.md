@@ -2,13 +2,14 @@
 type: Law
 title: 'Article 54: Authorised representatives of providers of general-purpose AI
   models'
-description: 'Mandates third-country GPAI providers to appoint an authorised representative established in the Union....'
+description: 'Mandates third-country GPAI providers to appoint an authorised representative established in the Union.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-54
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

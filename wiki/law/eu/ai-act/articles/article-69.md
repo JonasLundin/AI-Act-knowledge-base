@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 69: Access to the pool of experts by the Member States'
-description: 'Enables national competent authorities to access the expertise of the Scientific Panel to support national market surveillance investigations....'
+description: 'Enables national competent authorities to access the expertise of the Scientific Panel to support national market surveillance investigations.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-69
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

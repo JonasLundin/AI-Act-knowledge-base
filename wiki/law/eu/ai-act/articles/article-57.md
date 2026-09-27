@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 57: AI regulatory sandboxes'
-description: 'Requires Member States to establish at least one operational AI regulatory sandbox at national level to facilitate controlled development and testing ...'
+description: 'Requires Member States to establish at least one operational AI regulatory sandbox at national level to facilitate controlled development and testing.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-57
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

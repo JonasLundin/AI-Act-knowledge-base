@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 20: Corrective actions and duty of information'
-description: 'Obligates providers to immediately take necessary corrective actions to bring non-compliant systems into conformity, withdraw them, disable them, or r...'
+description: 'Obligates providers to immediately take necessary corrective actions to bring non-compliant systems into conformity, withdraw them, disable them, or r.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-20
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

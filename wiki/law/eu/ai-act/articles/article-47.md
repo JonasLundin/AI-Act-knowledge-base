@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 47: EU declaration of conformity'
-description: 'Requires providers to draw up a written EU declaration of conformity stating that the high-risk AI system satisfies all essential requirements, based ...'
+description: 'Requires providers to draw up a written EU declaration of conformity stating that the high-risk AI system satisfies all essential requirements, based.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-47
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

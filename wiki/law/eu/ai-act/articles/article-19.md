@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 19: Automatically generated logs'
-description: 'Requires providers to keep automatically generated logs under their control for a minimum of six months where appropriate under applicable Union or na...'
+description: 'Requires providers to keep automatically generated logs under their control for a minimum of six months where appropriate under applicable Union or na.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-19
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

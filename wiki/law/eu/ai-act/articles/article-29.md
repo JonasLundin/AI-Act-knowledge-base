@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 29: Application of a conformity assessment body for notification'
-description: 'Establishes governance, objectivity, confidentiality, and competence standards that national notifying authorities must maintain....'
+description: 'Establishes governance, objectivity, confidentiality, and competence standards that national notifying authorities must maintain.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-29
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 83: Formal non-compliance'
-description: 'Empowers the Commission to designate EU reference laboratories to provide independent testing, technical support, and scientific evaluation for market...'
+description: 'Empowers the Commission to designate EU reference laboratories to provide independent testing, technical support, and scientific evaluation for market.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-83
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 45: Information obligations of notified bodies'
-description: 'Obligates notified bodies to inform notifying authorities and other notified bodies of certificates issued, refused, suspended, or withdrawn....'
+description: 'Obligates notified bodies to inform notifying authorities and other notified bodies of certificates issued, refused, suspended, or withdrawn.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-45
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

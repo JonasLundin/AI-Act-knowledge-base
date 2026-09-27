@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 37: Challenge to the competence of notified bodies'
-description: 'Governs procedures where a notifying authority ascertains that a notified body no longer meets statutory requirements, leading to restriction, suspens...'
+description: 'Governs procedures where a notifying authority ascertains that a notified body no longer meets statutory requirements, leading to restriction, suspens.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-37
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

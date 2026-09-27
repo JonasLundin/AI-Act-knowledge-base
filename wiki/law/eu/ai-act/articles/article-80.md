@@ -2,13 +2,14 @@
 type: Law
 title: 'Article 80: Procedure for dealing with AI systems classified by the provider
   as non-high-risk in application of Annex III'
-description: 'Sets out the Union-wide mechanism for reviewing national restrictive measures taken against non-compliant AI systems to determine whether they are jus...'
+description: 'Sets out the Union-wide mechanism for reviewing national restrictive measures taken against non-compliant AI systems to determine whether they are jus.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-80
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

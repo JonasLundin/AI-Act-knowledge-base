@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 86: Right to explanation of individual decision-making'
-description: 'Grants individuals subject to decisions based primarily on the output of high-risk AI systems the right to obtain clear and meaningful explanations fr...'
+description: 'Grants individuals subject to decisions based primarily on the output of high-risk AI systems the right to obtain clear and meaningful explanations fr.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-86
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity

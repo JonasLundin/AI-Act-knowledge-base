@@ -1,13 +1,14 @@
 ---
 type: Law
 title: 'Article 43: Conformity assessment'
-description: 'Establishes the conformity assessment routes for high-risk AI systems: internal control (Annex VI) versus third-party assessment by notified bodies (A...'
+description: 'Establishes the conformity assessment routes for high-risk AI systems: internal control (Annex VI) versus third-party assessment by notified bodies (A.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-43
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
