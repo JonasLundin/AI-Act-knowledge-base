@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Material and Territorial Scope (Article 2)
 description: Establishes extraterritorial reach, affected market participants, and
   material thresholds under the AI Act.

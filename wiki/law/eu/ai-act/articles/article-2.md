@@ -9,6 +9,7 @@ tags:
 - regulation
 - article
 - article-2
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +36,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 2 (Scope) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Defines the territorial, personal, and material scope of the AI Act, covering providers placing AI on the Union market, deployers located in the EU, third-country providers/deployers where output is used in the EU, and specific public security/military exclusions.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

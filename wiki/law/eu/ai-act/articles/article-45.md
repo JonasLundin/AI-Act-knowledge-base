@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 45: Information obligations of notified bodies'
-description: Legal provisions and requirements of Article 45 (Information obligations
-  of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Obligates notified bodies to inform notifying authorities and other notified bodies of certificates issued, refused, suspended, or withdrawn.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-45
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 45 (Information obligations of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Obligates notified bodies to inform notifying authorities and other notified bodies of certificates issued, refused, suspended, or withdrawn.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

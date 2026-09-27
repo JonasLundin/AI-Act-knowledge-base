@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: AI-Human Interaction Disclosure (Article 50(1))
 description: Mandatory obligation for providers to ensure AI systems interacting with
   natural persons inform them that they are interacting with AI.

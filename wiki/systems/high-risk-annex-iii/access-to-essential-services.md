@@ -36,7 +36,7 @@ x-ai-act:
 Eligibility evaluation for public assistance benefits, creditworthiness scoring, emergency service triage, and health/life insurance risk pricing.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 5, AI systems intended to evaluate the eligibility of natural persons for public assistance benefits and services, assess creditworthiness of natural persons (excluding fraud detection tools), and evaluate risk pricing for life and health insurance are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)

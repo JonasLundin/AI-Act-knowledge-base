@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 112: Evaluation and review'
-description: Legal provisions and requirements of Article 112 (Evaluation and review)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Establishes a mandatory review cycle under which the Commission submits comprehensive evaluation reports on the AI Act to the European Parliament and.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-112
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 112 (Evaluation and review) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes a mandatory review cycle under which the Commission submits comprehensive evaluation reports on the AI Act to the European Parliament and Council every four years (and reviews of Article 5 and Annex III every two years).
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

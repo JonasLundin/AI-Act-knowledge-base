@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 18: Documentation keeping'
-description: Legal provisions and requirements of Article 18 (Documentation keeping)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates providers to maintain the technical documentation, declaration of conformity, and relevant decisions for 10 years after the AI system has bee.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-18
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 18 (Documentation keeping) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates providers to maintain the technical documentation, declaration of conformity, and relevant decisions for 10 years after the AI system has been placed on the market or put into service.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

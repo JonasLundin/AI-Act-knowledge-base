@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 19: Automatically generated logs'
-description: Legal provisions and requirements of Article 19 (Automatically generated
-  logs) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Requires providers to keep automatically generated logs under their control for a minimum of six months where appropriate under applicable Union or na.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-19
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 19 (Automatically generated logs) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Requires providers to keep automatically generated logs under their control for a minimum of six months where appropriate under applicable Union or national law.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

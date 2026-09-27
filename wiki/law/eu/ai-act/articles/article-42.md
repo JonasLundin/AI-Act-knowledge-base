@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 42: Presumption of conformity with certain requirements'
-description: Legal provisions and requirements of Article 42 (Presumption of conformity
-  with certain requirements) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Provides presumption of conformity for high-risk AI systems trained and tested using specific verified standards or cybersecurity frameworks.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-42
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 42 (Presumption of conformity with certain requirements) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Provides presumption of conformity for high-risk AI systems trained and tested using specific verified standards or cybersecurity frameworks.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

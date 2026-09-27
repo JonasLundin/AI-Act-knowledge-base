@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Deepfake Labelling and Manipulated Media Disclosure (Article 50(4))
 description: Obligates deployers of AI systems generating deepfakes or synthetic text
   of public interest to prominently disclose that the content is artificially generated.

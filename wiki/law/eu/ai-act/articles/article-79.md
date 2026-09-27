@@ -11,6 +11,7 @@ tags:
 - regulation
 - article
 - article-79
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,8 +38,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 79 (Procedure at national level for dealing with AI systems presenting a risk) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes the national procedure where a market surveillance authority evaluates an AI system presenting risks and orders corrective actions, withdrawal, or recall.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

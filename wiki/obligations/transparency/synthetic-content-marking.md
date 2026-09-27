@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Synthetic Content Marking and Watermarking (Article 50(2))
 description: Mandates providers of generative AI systems to mark synthetic audio,
   image, video, and text in machine-readable formats.

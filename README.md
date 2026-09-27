@@ -4,9 +4,7 @@ An English-language [Open Knowledge Format (OKF)](https://github.com/GoogleCloud
 
 The bundle will contain concise original summaries with provision-level citations to primary sources. It does not reproduce full legal instruments, rules, guidance documents, or standards.
 
-Current release: **none yet** (`VERSION` 0.0.0)
-
-> **Scaffold:** the manifest, section structure, validator and registers are in place. No concepts have been ingested yet; every section index describes what will go there.
+Current release: **0.1.0** (see [CHANGELOG.md](CHANGELOG.md))
 
 > **General orientation only:** once populated, do not rely on this knowledge base for decisions that determine, demonstrate, or materially affect legal or regulatory compliance. Verify the current primary sources and obtain qualified professional advice before making AI-system classification, prohibited-practice, conformity-assessment, market-access, transparency, incident-reporting, or other compliance-impacting decisions.
 

@@ -11,6 +11,7 @@ tags:
 - regulation
 - article
 - article-32
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,8 +38,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 32 (Presumption of conformity with requirements relating to notified bodies) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Sets out organisational, quality, resource, and process requirements that conformity assessment bodies must satisfy to obtain and maintain notified body status.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

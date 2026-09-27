@@ -11,6 +11,7 @@ tags:
 - regulation
 - article
 - article-55
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,8 +38,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 55 (Obligations of providers of general-purpose AI models with systemic risk) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Sets out specialized systemic risk duties for advanced foundation models: model evaluations, red-teaming, adversarial testing, tracking serious incidents, and cybersecurity protections.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

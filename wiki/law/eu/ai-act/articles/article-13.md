@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 13: Transparency and provision of information to deployers'
-description: Legal provisions and requirements of Article 13 (Transparency and provision
-  of information to deployers) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates that high-risk AI systems be designed to ensure sufficient transparency enabling deployers to interpret system outputs and use them appropria.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-13
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 13 (Transparency and provision of information to deployers) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates that high-risk AI systems be designed to ensure sufficient transparency enabling deployers to interpret system outputs and use them appropriately, accompanied by comprehensive instructions for use.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

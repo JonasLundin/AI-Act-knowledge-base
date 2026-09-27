@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Quality Management System (Article 17 & 16(k))
 description: Mandates an institutionalized QMS covering regulatory compliance, design
   control, verification, and accountability.

@@ -10,6 +10,7 @@ tags:
 - ai-act
 - annex
 - annex-13
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,7 +38,10 @@ x-ai-act:
 Provisions and specifications of Annex XIII (Criteria for the Designation of General-Purpose AI Models with Systemic Risk Referred to in Article 51) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Sets out qualitative and quantitative evaluation criteria under Article 51 used by the Commission to designate GPAI models posing systemic risk, including reach, capabilities, and autonomy.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

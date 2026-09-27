@@ -2,15 +2,14 @@
 type: Law
 title: 'Article 59: Further processing of personal data for developing certain AI
   systems in the public interest in the AI regulatory'
-description: Legal provisions and requirements of Article 59 (Further processing of
-  personal data for developing certain AI systems in the public interest in the AI
-  regulatory) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Establishes a statutory legal basis for processing personal data lawfully collected for other purposes within AI regulatory sandboxes for public inter.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-59
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,8 +36,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 59 (Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes a statutory legal basis for processing personal data lawfully collected for other purposes within AI regulatory sandboxes for public interest objectives.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

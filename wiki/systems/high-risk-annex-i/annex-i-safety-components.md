@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: System
 title: High-Risk AI Systems under Annex I (Safety Components)
 description: Classification of AI systems functioning as safety components of products
   subject to New Legislative Framework legislation.

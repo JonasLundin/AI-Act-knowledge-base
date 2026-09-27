@@ -31,10 +31,11 @@ x-ai-act:
 
 # Definition
 
-**General-Purpose AI Model**: An AI model, including when trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks.[^regulation-eu-2024-1689]
+**General-Purpose AI Model (GPAI Model)** is defined under Article 3(63) of Regulation (EU) 2024/1689[^regulation-eu-2024-1689].
 
-# Legal Context
-Defined in Article 3 of Regulation (EU) 2024/1689.
+# Scope and Classification
+
+Under the statutory definition, a GPAI model is an AI model—including when trained with a large amount of data using self-supervision at scale—that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the manner in which it is placed on the market. It can be integrated into diverse downstream AI systems or applications, excluding models used exclusively for research, development, or prototyping prior to commercial placement.
 
 # Related concepts
 - [Glossary Index](index.md)

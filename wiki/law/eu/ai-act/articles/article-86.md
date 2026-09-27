@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 86: Right to explanation of individual decision-making'
-description: Legal provisions and requirements of Article 86 (Right to explanation
-  of individual decision-making) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Grants individuals subject to decisions based primarily on the output of high-risk AI systems the right to obtain clear and meaningful explanations fr.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-86
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 86 (Right to explanation of individual decision-making) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Grants individuals subject to decisions based primarily on the output of high-risk AI systems the right to obtain clear and meaningful explanations from the deployer.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

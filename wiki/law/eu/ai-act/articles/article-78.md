@@ -9,6 +9,7 @@ tags:
 - regulation
 - article
 - article-78
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +36,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 78 (Confidentiality) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Requires national authorities and the Commission to respect intellectual property, trade secrets, and confidentiality of information obtained during supervisory duties.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

@@ -10,6 +10,7 @@ tags:
 - regulation
 - article
 - article-95
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -36,8 +37,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 95 (Codes of conduct for voluntary application of specific requirements) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Encourages the development of voluntary codes of conduct applying environmental sustainability, accessibility, or high-risk requirements to non-high-risk AI systems.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

@@ -10,6 +10,7 @@ tags:
 - ai-act
 - annex
 - annex-8
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,7 +38,10 @@ x-ai-act:
 Provisions and specifications of Annex VIII (Information to be Submitted upon the Registration of High-Risk AI Systems in Accordance with Article 49) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Specifies the mandatory information required for registering high-risk AI systems in the EU database under Article 49 and Article 71, including provider contact details, system intended purpose, and conformity status.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

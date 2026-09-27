@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 68: Scientific panel of independent experts'
-description: Legal provisions and requirements of Article 68 (Scientific panel of
-  independent experts) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Creates the Scientific Panel of independent experts to advise the AI Office on GPAI risks, evaluate models, and issue qualified systemic risk alerts.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-68
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 68 (Scientific panel of independent experts) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Creates the Scientific Panel of independent experts to advise the AI Office on GPAI risks, evaluate models, and issue qualified systemic risk alerts.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

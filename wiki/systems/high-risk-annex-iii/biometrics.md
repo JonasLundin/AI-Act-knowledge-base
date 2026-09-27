@@ -36,7 +36,7 @@ x-ai-act:
 Remote biometric identification systems, biometric categorization, and emotion recognition systems.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 1, AI systems intended to be used for remote biometric identification of natural persons (both real-time and post-hoc), biometric categorization systems inferring protected attributes, and emotion recognition systems are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)
