@@ -1,34 +1,52 @@
 version: 1
-release: 0.0.0
-baseline: '2026-09-26'
-coverage_status: planned
+release: 0.1.0
+baseline: '2026-09-27'
+coverage_status: complete
 review_status: unverified
-total_concepts: 0
-by_category: {}
-by_type: {}
+total_concepts: 187
+by_category:
+  authority: 4
+  glossary: 4
+  guidance: 1
+  jurisdiction: 30
+  law: 126
+  requirement: 5
+  standard: 2
+  system: 10
+  timeline: 5
+by_type:
+  Authority: 4
+  Glossary: 4
+  Guidance: 1
+  Jurisdiction: 30
+  Law: 126
+  Requirement: 5
+  Standard: 2
+  System: 10
+  Timeline: 5
 gates:
   ai_act_articles:
     pattern: law/eu/ai-act/articles/article-*
     expected: 113
-    actual: 0
-    status: pending
+    actual: 113
+    status: pass
   ai_act_annexes:
     pattern: law/eu/ai-act/annexes/annex-*
     expected: 13
-    actual: 0
-    status: pending
+    actual: 13
+    status: pass
   annex_iii_areas:
     pattern: systems/high-risk-annex-iii/*
     expected: 8
-    actual: 0
-    status: pending
+    actual: 8
+    status: pass
   eu_member_states:
     pattern: jurisdictions/eu-member-states/*
     expected: 27
-    actual: 0
-    status: pending
+    actual: 27
+    status: pass
   eea_states:
     pattern: jurisdictions/eea/*
     expected: 3
-    actual: 0
-    status: pending
+    actual: 3
+    status: pass
