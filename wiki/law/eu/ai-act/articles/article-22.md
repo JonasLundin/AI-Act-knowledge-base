@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 22: Authorised representatives of providers of high-risk AI systems'
-description: Legal provisions and requirements of Article 22 (Authorised representatives
-  of providers of high-risk AI systems) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates non-EU established providers of high-risk AI systems to appoint an authorised representative established in the Union by written mandate prio...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 22 (Authorised representatives of providers of high-risk AI systems) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates non-EU established providers of high-risk AI systems to appoint an authorised representative established in the Union by written mandate prior to making systems available.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

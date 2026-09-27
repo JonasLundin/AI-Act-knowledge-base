@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Law
 title: Interplay with GDPR and Fundamental Rights Law
 description: Harmonization, consistency principles, and legal boundaries between the
   AI Act and Regulation (EU) 2016/679 (GDPR).

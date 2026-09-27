@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 23: Obligations of importers'
-description: Legal provisions and requirements of Article 23 (Obligations of importers)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Sets out verification, storage, transport, and cooperative duties for importers placing third-country high-risk AI systems on the Union market....'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 23 (Obligations of importers) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Sets out verification, storage, transport, and cooperative duties for importers placing third-country high-risk AI systems on the Union market.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

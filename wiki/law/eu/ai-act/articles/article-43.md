@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 43: Conformity assessment'
-description: Legal provisions and requirements of Article 43 (Conformity assessment)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Establishes the conformity assessment routes for high-risk AI systems: internal control (Annex VI) versus third-party assessment by notified bodies (A...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 43 (Conformity assessment) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes the conformity assessment routes for high-risk AI systems: internal control (Annex VI) versus third-party assessment by notified bodies (Annex VII) and Annex I sectoral procedures.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

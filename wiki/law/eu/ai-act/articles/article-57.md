@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 57: AI regulatory sandboxes'
-description: Legal provisions and requirements of Article 57 (AI regulatory sandboxes)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Requires Member States to establish at least one operational AI regulatory sandbox at national level to facilitate controlled development and testing ...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 57 (AI regulatory sandboxes) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Requires Member States to establish at least one operational AI regulatory sandbox at national level to facilitate controlled development and testing of innovative AI before market placement.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

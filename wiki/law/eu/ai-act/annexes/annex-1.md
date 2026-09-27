@@ -35,7 +35,10 @@ x-ai-act:
 Provisions and specifications of Annex I (List of Union Harmonisation Legislation) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Lists Union harmonisation legislation based on the New Legislative Framework (Section A) and other Union legislation (Section B, including aviation, vehicles, marine equipment, and rail) where AI safety components trigger high-risk classification under Article 6(1).
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

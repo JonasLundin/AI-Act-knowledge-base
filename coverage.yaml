@@ -1,29 +1,29 @@
 version: 1
 release: 0.1.0
 baseline: '2026-09-27'
-coverage_status: complete
+coverage_status: partial
 review_status: unverified
-total_concepts: 219
+total_concepts: 228
 by_category:
-  guidance: 5
+  authority: 6
   glossary: 4
-  authority: 4
-  system: 14
-  requirement: 25
-  timeline: 5
-  standard: 4
+  guidance: 5
   jurisdiction: 30
-  law: 128
+  law: 134
+  requirement: 20
+  standard: 8
+  system: 12
+  timeline: 9
 by_type:
-  Authority: 4
+  Authority: 6
   Glossary: 4
-  Guidance: 1
+  Guidance: 5
   Jurisdiction: 30
-  Law: 126
-  Requirement: 5
-  Standard: 2
-  System: 10
-  Timeline: 5
+  Law: 134
+  Requirement: 20
+  Standard: 8
+  System: 12
+  Timeline: 9
 gates:
   ai_act_articles:
     pattern: law/eu/ai-act/articles/article-*

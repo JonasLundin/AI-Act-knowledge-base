@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 63: Derogations for specific operators'
-description: Legal provisions and requirements of Article 63 (Derogations for specific
-  operators) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates express informed consent from human subjects participating in real-world testing of high-risk AI systems....'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 63 (Derogations for specific operators) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates express informed consent from human subjects participating in real-world testing of high-risk AI systems.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Law
 title: Delegated Acts on GPAI Thresholds and Annexes (Articles 7, 51, 97)
 description: Empowerments for the Commission to adopt delegated acts updating computational
   thresholds (>10^25 FLOPs) and Annex III high-risk use cases.

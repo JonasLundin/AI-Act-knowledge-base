@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 25: Responsibilities along the AI value chain'
-description: Legal provisions and requirements of Article 25 (Responsibilities along
-  the AI value chain) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Defines the legal conditions under which distributors, importers, deployers, or third parties become classified as providers and assume full provider ...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 25 (Responsibilities along the AI value chain) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Defines the legal conditions under which distributors, importers, deployers, or third parties become classified as providers and assume full provider obligations (e.g. putting their name on the system or modifying its intended purpose).
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

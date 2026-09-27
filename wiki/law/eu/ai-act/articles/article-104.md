@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 104 (Amendment to Regulation (EU) No 168/2013) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Amends Regulation (EU) No 168/2013 on two- or three-wheel vehicles and quadricycles to coordinate AI safety components with vehicle type-approval.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

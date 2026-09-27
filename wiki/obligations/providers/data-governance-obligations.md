@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Data and Data Governance Obligations (Article 10 & 16(b))
 description: Statutory requirements for training, validation, and testing datasets,
   bias examination, and statistical curation.

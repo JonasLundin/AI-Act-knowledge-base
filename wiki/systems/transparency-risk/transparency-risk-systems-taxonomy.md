@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: System
 title: Transparency-Risk AI Systems Taxonomy
 description: Classification of AI systems subject exclusively to Article 50 transparency,
   notification, and labelling duties.

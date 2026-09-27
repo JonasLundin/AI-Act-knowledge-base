@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 73: Reporting of serious incidents'
-description: Legal provisions and requirements of Article 73 (Reporting of serious
-  incidents) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates providers of high-risk AI systems to report serious incidents immediately to the market surveillance authorities of Member States where the i...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 73 (Reporting of serious incidents) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates providers of high-risk AI systems to report serious incidents immediately to the market surveillance authorities of Member States where the incident occurred.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

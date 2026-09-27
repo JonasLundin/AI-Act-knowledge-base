@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 37: Challenge to the competence of notified bodies'
-description: Legal provisions and requirements of Article 37 (Challenge to the competence
-  of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Governs procedures where a notifying authority ascertains that a notified body no longer meets statutory requirements, leading to restriction, suspens...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 37 (Challenge to the competence of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Governs procedures where a notifying authority ascertains that a notified body no longer meets statutory requirements, leading to restriction, suspension, or withdrawal of notification.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

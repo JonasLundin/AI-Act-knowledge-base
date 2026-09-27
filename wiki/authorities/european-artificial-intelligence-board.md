@@ -37,7 +37,7 @@ x-ai-act:
 
 **European Artificial Intelligence Board** under Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689].
 
-Advisory board composed of representatives from Member States and the EDPS, advising the Commission.
+Advisory board composed of representatives from Member States and the EDPS, advising the Commission in collaboration with the European AI Office[^ai-office].
 
 # Institutional Role
 Coordinates EU-wide supervisory strategy and technical guidelines.

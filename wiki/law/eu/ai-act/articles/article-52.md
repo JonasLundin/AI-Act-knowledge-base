@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 52 (Procedure) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes the notification and designation procedures for general-purpose AI models posing systemic risk, including provider notifications within 2 weeks and Commission assessment powers.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

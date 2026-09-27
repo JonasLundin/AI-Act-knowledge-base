@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 107 (Amendment to Regulation (EU) 2018/858) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Amends Regulation (EU) 2018/858 on the approval and market surveillance of motor vehicles to incorporate AI safety systems into EU vehicle type-approval.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

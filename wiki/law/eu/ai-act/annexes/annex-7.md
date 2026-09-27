@@ -37,7 +37,10 @@ x-ai-act:
 Provisions and specifications of Annex VII (Conformity Based on an Assessment of the Quality Management System and an Assessment of the Technical Documentation) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Details the conformity assessment procedure (Module H) under Article 43(2) involving a notified body, specifying notified body auditing of the provider's quality management system and examination of technical documentation.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

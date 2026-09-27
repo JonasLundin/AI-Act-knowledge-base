@@ -37,7 +37,10 @@ x-ai-act:
 Provisions and specifications of Annex X (Union Legislative Acts on Large-Scale IT Systems in the Area of Freedom, Security and Justice) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Specifies the mechanisms and administrative arrangements for Union financial assistance and operational coordination under Chapter VII.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

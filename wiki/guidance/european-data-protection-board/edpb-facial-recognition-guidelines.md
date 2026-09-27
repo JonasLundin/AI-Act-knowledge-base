@@ -1,8 +1,7 @@
 ---
-type: Concept
-title: EDPB Guidelines on Biometrics and Facial Recognition
-description: European Data Protection Board guidelines on facial recognition technology
-  and harmonization between the AI Act and GDPR.
+type: Guidance
+title: EDPB Guidelines on Facial Recognition and Biometrics
+description: EDPB Guidelines 05/2022 on the use of facial recognition technology in the area of law enforcement and AI Act alignment.
 category: guidance
 tags:
 - ai-act
@@ -10,38 +9,44 @@ tags:
 - edpb
 - biometrics
 - facial-recognition
-- gdpr
 status: draft
 generated:
   by: agent:kb-researcher-writer
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
+- id: edpb-guidelines-05-2022
+  resource: https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-052022-use-facial-recognition-technology-area-law_en
+  title: Guidelines 05/2022 on the use of facial recognition technology in the area of law enforcement
+  author: European Data Protection Board
+  last_modified: '2022-05-12T00:00:00Z'
 - id: regulation-eu-2024-1689
   resource: http://data.europa.eu/eli/reg/2024/1689/oj
-  title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence
-    (Artificial Intelligence Act)
+  title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)
   author: European Parliament and Council of the European Union
   last_modified: '2024-07-12T00:00:00Z'
 x-ai-act:
   jurisdiction: EU
-  authority_level: standard
+  authority_level: guidance
   instrument_status: in_force
-  provision: Article 5(1)(h), Article 10(5)
+  provision: Guidelines 05/2022
   checked_at: '2026-09-27T00:00:00Z'
 ---
 
 # Summary
 
-The **European Data Protection Board (EDPB)** provides authoritative guidance on the interplay between the General Data Protection Regulation (GDPR) and the AI Act concerning biometric processing[^regulation-eu-2024-1689].
+**EDPB Guidelines 05/2022** on the use of facial recognition technology in the area of law enforcement[^edpb-guidelines-05-2022] provide fundamental privacy and fundamental rights benchmarks that directly informed Article 5(1)(e), (g), and (h) of Regulation (EU) 2024/1689[^regulation-eu-2024-1689].
 
-# Core Guidance Principles
-1. **Strict Necessity for Biometrics**: Processing biometric data for identification or categorization requires a valid legal basis under GDPR Article 9.
-2. **Prohibition of Real-Time Facial Recognition**: Emphasizes that real-time RBI in public spaces is an extreme interference with fundamental rights, permissible only under strictly circumscribed judicial warrants.
-3. **Bias Correction Safeguards**: Guidelines on technical isolation and encryption when processing sensitive data for algorithmic debiasing under AI Act Article 10(5).
+# Scope and Interaction with the AI Act
+The Guidelines address:
+- Inherent risks of biometric surveillance in public spaces;
+- Absolute bans on untargeted scraping of facial images from the internet or CCTV;
+- Necessity and proportionality tests under Directive (EU) 2016/680 (Law Enforcement Directive);
+- Technical error rates and demographic bias mitigation in facial matching algorithms.
 
 # Related concepts
-- [EDPB Guidance Index](index.md)
 - [Article 5: Prohibited AI Practices](../../law/eu/ai-act/articles/article-5.md)
+- [Prohibited AI Taxonomy](../../systems/prohibited/prohibited-ai-taxonomy.md)
 
+[^edpb-guidelines-05-2022]: European Data Protection Board, Guidelines 05/2022 on the use of facial recognition technology in the area of law enforcement, https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-052022-use-facial-recognition-technology-area-law_en
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

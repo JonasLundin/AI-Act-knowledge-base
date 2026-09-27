@@ -27,7 +27,7 @@ sources:
   last_modified: '2024-02-21T00:00:00Z'
 x-ai-act:
   jurisdiction: EU
-  authority_level: guidance
+  authority_level: binding
   instrument_status: in_force
   provision: Article 64
   checked_at: '2026-09-27T00:00:00Z'
@@ -37,7 +37,7 @@ x-ai-act:
 
 **European AI Office** under Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689].
 
-Central EU administrative body within the Commission overseeing GPAI models, coordinating governance, and enforcing rules.
+Central EU administrative body within the Commission overseeing GPAI models, coordinating governance, and enforcing rules under Commission guidance and operational frameworks[^ai-office].
 
 # Institutional Role
 Coordinates EU-wide supervisory strategy and technical guidelines.

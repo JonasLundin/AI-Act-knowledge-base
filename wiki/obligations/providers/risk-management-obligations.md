@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Provider Risk Management System (Article 9 & 16(a))
 description: Statutory requirements for high-risk AI providers to establish, implement,
   document, and maintain a continuous risk management system.

@@ -37,7 +37,10 @@ x-ai-act:
 Provisions and specifications of Annex XI (Technical Documentation Referred to in Article 53(1), Point (a) — Technical Documentation for Providers of General-Purpose AI Models) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Specifies the technical documentation required for providers of general-purpose AI models under Article 53(1)(a), including training methodology, dataset curation, computational resources, and energy consumption.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

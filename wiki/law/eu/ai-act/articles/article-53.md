@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 53: Obligations for providers of general-purpose AI models'
-description: Legal provisions and requirements of Article 53 (Obligations for providers
-  of general-purpose AI models) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Establishes baseline documentation, copyright compliance policies, and public training summaries required of all GPAI model providers....'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 53 (Obligations for providers of general-purpose AI models) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes baseline documentation, copyright compliance policies, and public training summaries required of all GPAI model providers.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

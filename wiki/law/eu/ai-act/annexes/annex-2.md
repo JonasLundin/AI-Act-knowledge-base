@@ -37,7 +37,10 @@ x-ai-act:
 Provisions and specifications of Annex II (List of Criminal Offences Referred to in Article 5(1), First Subparagraph, Point (h)(iii)) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Enumerates criminal offences punishable by a custodial sentence of at least four years (e.g. terrorism, trafficking, murder, sexual exploitation, kidnapping) for which 'real-time' remote biometric identification may exceptionally be authorised for law enforcement.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

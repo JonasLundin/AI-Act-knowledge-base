@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 39: Conformity assessment bodies of third countries'
-description: Legal provisions and requirements of Article 39 (Conformity assessment
-  bodies of third countries) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates the establishment and operation of a coordination group of notified bodies to ensure consistent application of assessment criteria....'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 39 (Conformity assessment bodies of third countries) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates the establishment and operation of a coordination group of notified bodies to ensure consistent application of assessment criteria.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

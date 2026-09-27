@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 35: Identification numbers and lists of notified bodies'
-description: Legal provisions and requirements of Article 35 (Identification numbers
-  and lists of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates that notified bodies carry out conformity assessments in a proportionate manner avoiding unnecessary burdens while verifying compliance with ...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 35 (Identification numbers and lists of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates that notified bodies carry out conformity assessments in a proportionate manner avoiding unnecessary burdens while verifying compliance with Chapter III requirements.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

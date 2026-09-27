@@ -35,7 +35,10 @@ x-ai-act:
 Provisions and specifications of Annex VI (Conformity Assessment Procedure Based on Internal Control) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Details the conformity assessment procedure based on internal control (Module A) under Article 43(1), verifying that the provider establishes a quality management system and draws up technical documentation without notified body intervention.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

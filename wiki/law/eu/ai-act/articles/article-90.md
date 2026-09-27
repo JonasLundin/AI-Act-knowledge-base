@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 90: Alerts of systemic risks by the scientific panel'
-description: Legal provisions and requirements of Article 90 (Alerts of systemic risks
-  by the scientific panel) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Authorises the Scientific Panel of independent experts to issue qualified alerts to the AI Office regarding systemic risks posed by general-purpose AI...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 90 (Alerts of systemic risks by the scientific panel) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Authorises the Scientific Panel of independent experts to issue qualified alerts to the AI Office regarding systemic risks posed by general-purpose AI models.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

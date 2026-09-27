@@ -37,8 +37,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 60 (Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Requires authorities to provide dedicated guidance, prioritised sandbox access, and reduced fees for small and medium-sized enterprises.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

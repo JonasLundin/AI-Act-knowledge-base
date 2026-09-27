@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 36: Changes to notifications'
-description: Legal provisions and requirements of Article 36 (Changes to notifications)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates the Commission to assign identification numbers to notified bodies and publish the official register in the NANDO database....'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 36 (Changes to notifications) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates the Commission to assign identification numbers to notified bodies and publish the official register in the NANDO database.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

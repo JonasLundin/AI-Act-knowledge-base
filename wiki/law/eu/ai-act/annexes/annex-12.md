@@ -39,7 +39,10 @@ x-ai-act:
 Provisions and specifications of Annex XII (Transparency Information Referred to in Article 53(1), Point (b) — Technical Documentation for Providers of General-Purpose AI Models to Downstream Providers that Integrate the Model into Their AI System) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Specifies technical and capability information that GPAI model providers must supply to downstream AI system providers under Article 53(1)(b) to enable downstream compliance.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

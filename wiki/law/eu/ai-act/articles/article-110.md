@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 110 (Amendment to Directive (EU) 2020/1828) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Amends Directive (EU) 2020/1828 on representative actions for the protection of the collective interests of consumers to include AI Act infringements within representative actions.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

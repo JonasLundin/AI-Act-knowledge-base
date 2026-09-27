@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 1 (Subject matter) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes the objective of improving internal market functioning while ensuring a high level of protection of health, safety, and fundamental rights against harmful effects of AI systems, promoting human-centric and trustworthy AI.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

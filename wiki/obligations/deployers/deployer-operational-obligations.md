@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Deployer Operational Obligations (Article 26)
 description: 'Statutory requirements for deployers of high-risk AI: instructions of
   use, human oversight, input data controls, and logging.'

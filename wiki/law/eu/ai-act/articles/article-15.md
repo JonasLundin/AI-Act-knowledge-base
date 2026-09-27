@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 15: Accuracy, robustness and cybersecurity'
-description: Legal provisions and requirements of Article 15 (Accuracy, robustness
-  and cybersecurity) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates that high-risk AI systems achieve appropriate levels of accuracy, robustness against errors and adversarial inputs, and cybersecurity resilie...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 15 (Accuracy, robustness and cybersecurity) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates that high-risk AI systems achieve appropriate levels of accuracy, robustness against errors and adversarial inputs, and cybersecurity resilience against unauthorized third-party exploitation.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

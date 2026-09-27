@@ -2,9 +2,7 @@
 type: Law
 title: 'Article 80: Procedure for dealing with AI systems classified by the provider
   as non-high-risk in application of Annex III'
-description: Legal provisions and requirements of Article 80 (Procedure for dealing
-  with AI systems classified by the provider as non-high-risk in application of Annex
-  III) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Sets out the Union-wide mechanism for reviewing national restrictive measures taken against non-compliant AI systems to determine whether they are jus...'
 category: law
 tags:
 - ai-act
@@ -37,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 80 (Procedure for dealing with AI systems classified by the provider as non-high-risk in application of Annex III) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Sets out the Union-wide mechanism for reviewing national restrictive measures taken against non-compliant AI systems to determine whether they are justified.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

@@ -37,8 +37,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 100 (Administrative fines on Union institutions, bodies, offices and agencies) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Empowers the European Data Protection Supervisor (EDPS) to impose administrative fines up to €1,500,000 on EU institutions and bodies for non-compliance with the AI Act.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

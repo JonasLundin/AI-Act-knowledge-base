@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 98: Committee procedure'
-description: Legal provisions and requirements of Article 98 (Committee procedure)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Establishes the examination and advisory committee procedures governing the adoption of Commission implementing acts under Regulation (EU) No 182/2011...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 98 (Committee procedure) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes the examination and advisory committee procedures governing the adoption of Commission implementing acts under Regulation (EU) No 182/2011.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

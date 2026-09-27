@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Importer and Distributor Obligations (Articles 23-25)
 description: Verification, documentation, storage, and traceability duties along the
   AI distribution chain, including circumstances shifting provider status.

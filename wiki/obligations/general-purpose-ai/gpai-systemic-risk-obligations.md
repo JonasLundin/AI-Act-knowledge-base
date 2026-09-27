@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Systemic Risk GPAI Obligations (Article 55)
 description: Mandates providers of GPAI models with systemic risk (>10^25 FLOPs) to
   perform model evaluations, adversarial testing, track serious incidents, and ensure

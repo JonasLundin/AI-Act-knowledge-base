@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Fundamental Rights Impact Assessment - FRIA (Article 27)
 description: Mandates public bodies and certain private deployers to conduct an impact
   assessment on fundamental rights prior to putting high-risk AI into service.

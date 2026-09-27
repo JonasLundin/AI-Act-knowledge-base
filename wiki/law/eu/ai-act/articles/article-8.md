@@ -1,8 +1,7 @@
 ---
 type: Law
 title: 'Article 8: Compliance with the requirements'
-description: Legal provisions and requirements of Article 8 (Compliance with the requirements)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Establishes that high-risk AI systems must comply with the mandatory requirements set out in Chapter III, Section 2 (Articles 9 to 15), taking into ac...'
 category: law
 tags:
 - ai-act
@@ -35,8 +34,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 8 (Compliance with the requirements) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Establishes that high-risk AI systems must comply with the mandatory requirements set out in Chapter III, Section 2 (Articles 9 to 15), taking into account their intended purpose and state-of-the-art risk mitigation.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)
