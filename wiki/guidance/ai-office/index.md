@@ -2,4 +2,6 @@
 
 Guidelines, templates, the Code of Practice process, Q&A.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [AI Office Code of Practice for General-Purpose AI (Article 56)](gpai-code-of-practice.md) — Guidelines and voluntary compliance framework developed by the European AI Office for GPAI model providers.

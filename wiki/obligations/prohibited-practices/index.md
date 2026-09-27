@@ -1,5 +1,7 @@
-# Prohibited practices
+# Prohibited AI Practices
 
-Article 5 practices and the Commission guidelines on them.
+Unconditional bans on AI practices that present unacceptable risks to health, safety, and fundamental rights.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Prohibited AI Practices Overview (Article 5)](article-5-prohibitions-overview.md) — Comprehensive analysis of the 8 prohibited AI practices under Article 5 and the €35M / 7% turnover fine ceiling.

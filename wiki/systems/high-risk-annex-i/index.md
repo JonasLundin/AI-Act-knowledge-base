@@ -2,4 +2,6 @@
 
 AI as a safety component of, or as, a product covered by listed Union harmonisation legislation.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [High-Risk AI Systems under Annex I (Safety Components)](annex-i-safety-components.md) — Classification of AI systems functioning as safety components of products subject to New Legislative Framework legislation.

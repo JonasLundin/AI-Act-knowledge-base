@@ -2,4 +2,6 @@
 
 Opinions and guidance at the GDPR interface.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [EDPB Guidelines on Biometrics and Facial Recognition](edpb-facial-recognition-guidelines.md) — European Data Protection Board guidelines on facial recognition technology and harmonization between the AI Act and GDPR.

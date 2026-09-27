@@ -2,4 +2,6 @@
 
 CEN-CENELEC JTC 21, ISO/IEC JTC 1/SC 42, ETSI.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [CEN-CENELEC JTC 21 Artificial Intelligence Committee](cen-cenelec-jtc-21.md) — Joint Technical Committee responsible for authoring European Harmonised Standards under Standardisation Request M/593.

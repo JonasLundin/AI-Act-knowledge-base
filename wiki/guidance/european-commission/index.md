@@ -2,4 +2,6 @@
 
 Guidelines on the AI-system definition, prohibited practices, GPAI obligations and Article 50.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Commission Guidelines on Prohibited AI Practices (Article 96)](prohibited-ai-guidelines.md) — Practical guidance issued by the European Commission interpreting the 8 prohibited AI practices under Article 5.

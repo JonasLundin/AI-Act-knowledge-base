@@ -2,4 +2,6 @@
 
 GPAI models with and without systemic risk.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [General-Purpose AI Models Taxonomy](general-purpose-ai-models-taxonomy.md) — Classification of GPAI models into baseline models versus models with systemic risk exceeding 10^25 FLOPs.

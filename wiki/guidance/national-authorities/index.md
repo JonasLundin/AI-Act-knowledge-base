@@ -2,4 +2,6 @@
 
 Guidance from market surveillance and notifying authorities.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Market Surveillance and Cross-Border Investigations](market-surveillance-joint-investigations.md) — Operational guidance on market surveillance powers, joint investigations, and AI regulatory sandboxes across Member States.

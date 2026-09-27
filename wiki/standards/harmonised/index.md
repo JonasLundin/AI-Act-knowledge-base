@@ -1,5 +1,7 @@
-# Harmonised standards
+# Harmonised European Standards (Article 40)
 
-Standards requested and, once cited in the OJEU, giving presumption of conformity.
+Harmonised standards developed by CEN-CENELEC JTC 21 providing legal presumption of conformity with essential requirements under the AI Act.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Status
+
+Technical references and guidance for harmonised european standards (article 40) are tracked in associated chapters and supporting standards.

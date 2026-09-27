@@ -1,5 +1,8 @@
-# General-purpose AI
+# General-Purpose AI (GPAI) Obligations
 
-GPAI model obligations, systemic-risk designation, the Code of Practice, downstream information duties.
+Obligations applicable to providers of general-purpose AI models, including systemic risk thresholds and downstream documentation.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [GPAI Model Baseline Obligations (Article 53)](gpai-baseline-obligations.md) — Statutory requirements for providers of general-purpose AI models: technical documentation, downstream information, copyright compliance, and training data summary.
+- [Systemic Risk GPAI Obligations (Article 55)](gpai-systemic-risk-obligations.md) — Mandates providers of GPAI models with systemic risk (>10^25 FLOPs) to perform model evaluations, adversarial testing, track serious incidents, and ensure cybersecurity.

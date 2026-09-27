@@ -2,4 +2,6 @@
 
 Verification, cooperation and record duties along the value chain.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Importer and Distributor Obligations (Articles 23-25)](importer-and-distributor-obligations.md) — Verification, documentation, storage, and traceability duties along the AI distribution chain, including circumstances shifting provider status.

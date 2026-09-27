@@ -2,4 +2,6 @@
 
 Systems with Article 50 duties only.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Transparency-Risk AI Systems Taxonomy](transparency-risk-systems-taxonomy.md) — Classification of AI systems subject exclusively to Article 50 transparency, notification, and labelling duties.

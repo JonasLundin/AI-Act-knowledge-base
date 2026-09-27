@@ -1,5 +1,10 @@
-# Glossary
+# AI Act Glossary
 
-Terms defined in Article 3 of Regulation (EU) 2024/1689.
+Key statutory terms, legal concepts, and technical definitions defined under Article 3 and used across Regulation (EU) 2024/1689.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [AI System](ai-system.md) — A machine-based system designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, inferring from inputs how to generate outputs.
+- [General-Purpose AI Model](general-purpose-ai-model.md) — An AI model, including when trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks.
+- [High-Risk AI System](high-risk-ai-system.md) — An AI system that presents a significant risk of harm to the health, safety or fundamental rights of natural persons pursuant to Article 6.
+- [Risk](risk.md) — The combination of the probability of an occurrence of harm and the severity of that harm.

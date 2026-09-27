@@ -2,4 +2,6 @@
 
 Delegated and implementing acts, Commission guidelines with legal effect, and a register of pending empowerments.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Delegated Acts on GPAI Thresholds and Annexes (Articles 7, 51, 97)](delegated-acts-gpai-thresholds.md) — Empowerments for the Commission to adopt delegated acts updating computational thresholds (>10^25 FLOPs) and Annex III high-risk use cases.

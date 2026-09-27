@@ -2,4 +2,6 @@
 
 Systems and practices banned by Article 5.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Prohibited AI Systems Taxonomy](prohibited-ai-taxonomy.md) — Classification and operational boundaries of the 8 banned AI practices posing unacceptable risks under Article 5.

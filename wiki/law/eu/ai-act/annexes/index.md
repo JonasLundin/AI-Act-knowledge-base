@@ -1,5 +1,19 @@
-# Annexes
+# AI Act Annexes (Annexes I–XIII)
 
-One page per annex, including Annex I Union harmonisation legislation and Annex III high-risk areas.
+Reference to all 13 annexes of Regulation (EU) 2024/1689 specifying technical criteria, list of union legislation, technical documentation, and conformity assessment modules.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Annex I: List of Union Harmonisation Legislation](annex-1.md) — Provisions and specifications of Annex I (List of Union Harmonisation Legislation) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex II: List of Criminal Offences Referred to in Article 5(1), First Subparagraph, Point (h)(iii)](annex-2.md) — Provisions and specifications of Annex II (List of Criminal Offences Referred to in Article 5(1), First Subparagraph, Point (h)(iii)) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex III: High-Risk AI Systems (Article 6(2))](annex-3.md) — Exhaustive legal catalog of the 8 standalone high-risk AI domains and specific regulated use cases.
+- [Annex IV: Technical Documentation Referred to in Article 11(1)](annex-4.md) — Provisions and specifications of Annex IV (Technical Documentation Referred to in Article 11(1)) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex V: EU Declaration of Conformity](annex-5.md) — Provisions and specifications of Annex V (EU Declaration of Conformity) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex VI: Conformity Assessment Procedure Based on Internal Control](annex-6.md) — Provisions and specifications of Annex VI (Conformity Assessment Procedure Based on Internal Control) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex VII: Conformity Based on an Assessment of the Quality Management System and an Assessment of the Technical Documentation](annex-7.md) — Provisions and specifications of Annex VII (Conformity Based on an Assessment of the Quality Management System and an Assessment of the Technical Documentation) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex VIII: Information to be Submitted upon the Registration of High-Risk AI Systems in Accordance with Article 49](annex-8.md) — Provisions and specifications of Annex VIII (Information to be Submitted upon the Registration of High-Risk AI Systems in Accordance with Article 49) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex IX: Information to be Submitted upon the Registration of High-Risk AI Systems Listed in Annex III in Relation to Testing in Real World Conditions in Accordance with Article 60](annex-9.md) — Provisions and specifications of Annex IX (Information to be Submitted upon the Registration of High-Risk AI Systems Listed in Annex III in Relation to Testing in Real World Conditions in Accordance with Article 60) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex X: Union Legislative Acts on Large-Scale IT Systems in the Area of Freedom, Security and Justice](annex-10.md) — Provisions and specifications of Annex X (Union Legislative Acts on Large-Scale IT Systems in the Area of Freedom, Security and Justice) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex XI: Technical Documentation Referred to in Article 53(1), Point (a) — Technical Documentation for Providers of General-Purpose AI Models](annex-11.md) — Provisions and specifications of Annex XI (Technical Documentation Referred to in Article 53(1), Point (a) — Technical Documentation for Providers of General-Purpose AI Models) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex XII: Transparency Information Referred to in Article 53(1), Point (b) — Technical Documentation for Providers of General-Purpose AI Models to Downstream Providers that Integrate the Model into Their AI System](annex-12.md) — Provisions and specifications of Annex XII (Transparency Information Referred to in Article 53(1), Point (b) — Technical Documentation for Providers of General-Purpose AI Models to Downstream Providers that Integrate the Model into Their AI System) under Regulation (EU) 2024/1689 (AI Act).
+- [Annex XIII: Criteria for the Designation of General-Purpose AI Models with Systemic Risk Referred to in Article 51](annex-13.md) — Provisions and specifications of Annex XIII (Criteria for the Designation of General-Purpose AI Models with Systemic Risk Referred to in Article 51) under Regulation (EU) 2024/1689 (AI Act).
