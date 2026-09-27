@@ -1,8 +1,8 @@
 ---
 type: Law
-title: 'Article 5: Prohibited AI practices'
-description: Legal provisions and requirements of Article 5 (Prohibited AI practices)
-  under Regulation (EU) 2024/1689 (AI Act).
+title: 'Article 5: Prohibited AI Practices'
+description: Establishes an outright Union ban on AI systems posing unacceptable risks
+  to fundamental rights and safety.
 category: law
 tags:
 - ai-act
@@ -31,15 +31,44 @@ x-ai-act:
 
 # Summary
 
-**Article 5: Prohibited AI practices** of Regulation (EU) 2024/1689 (Artificial Intelligence Act)[^regulation-eu-2024-1689].
+**Article 5 (Prohibited AI practices)** of Regulation (EU) 2024/1689 (Artificial Intelligence Act)[^regulation-eu-2024-1689] defines the category of **unacceptable risk** AI systems that are strictly banned across the European Union.
 
-Legal provisions and requirements of Article 5 (Prohibited AI practices) under Regulation (EU) 2024/1689 (AI Act).
+These prohibitions apply horizontally from **2 February 2025** (6 months after entry into force), establishing the most severe regulatory boundaries in global AI governance.
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# The 8 Categories of Prohibited AI Systems
+
+```
++-------------------------------------------------------------------+
+|               ARTICLE 5 PROHIBITED AI PRACTICE MATRIX             |
++-------------------------------------------------------------------+
+| 1. Subliminal / Manipulative Techniques causing significant harm  |
+|    (Cognitive behavioral distortion exploiting vulnerabilities)   |
++-------------------------------------------------------------------+
+| 2. Exploitation of Vulnerabilities (age, disability, socio-econ)  |
++-------------------------------------------------------------------+
+| 3. Social Scoring (General public or private social rating)       |
++-------------------------------------------------------------------+
+| 4. Individual Predictive Policing (based solely on profiling)     |
++-------------------------------------------------------------------+
+| 5. Untargeted Scraping of Facial Images (CCTV / Internet)         |
++-------------------------------------------------------------------+
+| 6. Emotion Recognition in Workplace & Educational Institutions    |
+|    (Except for medical or safety reasons)                         |
++-------------------------------------------------------------------+
+| 7. Biometric Categorization inferring sensitive/protected traits  |
+|    (Race, political opinions, trade union membership, religion)   |
++-------------------------------------------------------------------+
+| 8. 'Real-Time' Remote Biometric Identification in Public Spaces   |
+|    by law enforcement (Subject to narrow, judicial exceptions)    |
++-------------------------------------------------------------------+
+```
+
+# Penalties for Violation
+Violations of Article 5 carry the highest administrative fines under the AI Act (Article 99(3)): up to **€35,000,000** or **7% of total worldwide annual turnover** of the preceding financial year, whichever is higher.
 
 # Related concepts
 - [Articles Index](index.md)
-- [AI Act Overview](../../index.md)
-
+- [Article 6: Classification Rules for High-Risk AI Systems](article-6.md)
+- [Article 50: Transparency Obligations](article-50.md)
+- [Deployer Obligations Overview](../../../../obligations/deployer-obligations.md)
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj
