@@ -1,8 +1,7 @@
 ---
 type: Jurisdiction
-title: AI Act Implementation in Germany
-description: National competent authorities, market surveillance, AI regulatory sandboxes,
-  and enforcement for the AI Act in Germany.
+title: 'AI Act Implementation in Germany'
+description: 'National competent authorities, market surveillance, AI regulatory sandboxes, and enforcement for the AI Act in Germany.'
 category: jurisdiction
 tags:
 - jurisdiction
@@ -12,19 +11,18 @@ tags:
 - market-surveillance
 status: draft
 generated:
-  by: agent:antigravity
+  by: agent:kb-researcher-writer
   at: '2026-09-27T00:00:00Z'
-stale_after: '2027-12-31T00:00:00Z'
+stale_after: '2027-06-30T00:00:00Z'
 sources:
 - id: regulation-eu-2024-1689
   resource: http://data.europa.eu/eli/reg/2024/1689/oj
-  title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence
-    (Artificial Intelligence Act)
+  title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)
   author: European Parliament and Council of the European Union
   last_modified: '2024-07-12T00:00:00Z'
 x-ai-act:
-  jurisdiction: EU
-  authority_level: guidance
+  jurisdiction: DE
+  authority_level: binding
   instrument_status: in_force
   provision: 'Member State: Germany'
   checked_at: '2026-09-27T00:00:00Z'
@@ -32,21 +30,27 @@ x-ai-act:
 
 # Summary
 
-Implementation, market surveillance structure, notifying authorities, and AI regulatory sandboxes for Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689] in **Germany**.
+Implementation, market surveillance structure, notifying authorities, and AI regulatory sandboxes for Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689] in **Germany** (DE).
 
 # National Authorities
 
 ## Market Surveillance Authority
-Designated under Article 70 of the AI Act responsible for supervising high-risk AI systems placed on the market or put into service in the Member State.
+Proposed market surveillance framework: Federal Network Agency (Bundesnetzagentur / BNetzA) proposed as single point of contact and central market surveillance authority under Article 70, in institutional coordination with the Federal Commissioner for Data Protection and Freedom of Information (BfDI) and Federal Office for Information Security (BSI).
 
 ## Notifying Authority
-Responsible for assessing, designating, and notifying conformity assessment bodies under Article 28.
+Federal Ministry for Economic Affairs and Climate Action (BMWK) / DAkkS.
+
+## Official Gazette
+Federal Law Gazette (Bundesgesetzblatt - BGBl.).
 
 ## AI Regulatory Sandbox
-National sandbox established pursuant to Article 57 to provide a controlled environment for the development, training, and testing of innovative AI systems.
+BMWK Regulatory Sandboxes (Reallabore) initiative supporting AI testing.
+
+# Legislative and Implementation Status
+Proposed AI Market Surveillance and Innovation Act (KI-Marktüberwachungs- und Innovationsgesetz - KI-MIG) and draft KI-Durchführungsgesetz proposing BNetzA as lead coordinator.
 
 # Related concepts
 - [EU Member States Index](index.md)
-- [Article 70: Designation of national competent authorities](../../law/eu/ai-act/articles/article-70.md)
+- [Article 70: Designation of National Competent Authorities](../../law/eu/ai-act/articles/article-70.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

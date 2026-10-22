@@ -11,6 +11,7 @@ tags:
 - regulation
 - article
 - article-49
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,8 +38,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 49 (Section A — Information to be submitted by providers of high-risk AI systems in accordance with Article 49(1)) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Requires providers of high-risk AI systems listed in Annex III to register themselves and their system in the central EU database prior to placing the system on the market.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

@@ -36,7 +36,7 @@ x-ai-act:
 Assisting judicial authorities in research and interpretation of law, and systems intended to influence election outcomes.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 8, AI systems intended to be used by a judicial authority or on their behalf to assist in researching and interpreting facts and the law and in applying the law to a concrete set of facts, or used in alternative dispute resolution, as well as AI systems intended to be used for influencing the outcome of an election or referendum or the voting behavior of natural persons, are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)

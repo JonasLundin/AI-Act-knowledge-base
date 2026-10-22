@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 16: Obligations of providers of high-risk AI systems'
-description: Legal provisions and requirements of Article 16 (Obligations of providers
-  of high-risk AI systems) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Enumerates the fundamental compliance obligations incumbent upon providers of high-risk AI systems, including QMS, technical documentation, logs, conf.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-16
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 16 (Obligations of providers of high-risk AI systems) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Enumerates the fundamental compliance obligations incumbent upon providers of high-risk AI systems, including QMS, technical documentation, logs, conformity assessments, CE marking, and registration.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

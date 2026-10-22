@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: GPAI Model Baseline Obligations (Article 53)
 description: 'Statutory requirements for providers of general-purpose AI models: technical
   documentation, downstream information, copyright compliance, and training data summary.'

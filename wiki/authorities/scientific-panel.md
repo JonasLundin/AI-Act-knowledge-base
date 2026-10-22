@@ -1,7 +1,7 @@
 ---
 type: Authority
 title: Scientific Panel of Independent Experts
-description: Advisory body of independent experts alerting the AI Office to systemic
+description: Advisory body of independent experts alerting the AI Office[^ai-office] to systemic
   risks posed by GPAI models.
 category: authority
 tags:
@@ -35,12 +35,11 @@ x-ai-act:
 
 # Summary
 
-**Scientific Panel of Independent Experts** under Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689].
+**The Scientific Panel of Independent Experts** is established under Article 68 of Regulation (EU) 2024/1689[^regulation-eu-2024-1689] as an autonomous technical advisory body.
 
-Advisory body of independent experts alerting the AI Office to systemic risks posed by GPAI models.
+# Statutory Advisory Mandate
 
-# Institutional Role
-Coordinates EU-wide supervisory strategy and technical guidelines.
+The Scientific Panel supports the implementation and enforcement of general-purpose AI rules by alerting the AI Office[^ai-office] to systemic risks posed by GPAI models. Panel experts are empowered to submit qualified alerts regarding emerging model capabilities, assist national authorities with technical evaluations, and contribute to standardisation benchmarks.
 
 # Related concepts
 - [Authorities Index](index.md)

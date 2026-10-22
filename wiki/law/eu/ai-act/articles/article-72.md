@@ -11,6 +11,7 @@ tags:
 - regulation
 - article
 - article-72
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -37,8 +38,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 72 (Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Requires providers to establish a post-market monitoring system and draw up a post-market monitoring plan integrated into Annex IV technical documentation.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

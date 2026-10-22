@@ -36,7 +36,7 @@ x-ai-act:
 Recruitment, screening, task allocation, performance evaluation, and promotion or termination decision-making.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 4, AI systems intended to be used for the recruitment or selection of natural persons (specifically for placing targeted job advertisements, screening or filtering applications, evaluating candidates), and AI systems intended to make decisions affecting terms of work-related relationships, promotion, termination, task allocation, or performance monitoring are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)

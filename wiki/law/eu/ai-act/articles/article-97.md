@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 97: Exercise of the delegation'
-description: Legal provisions and requirements of Article 97 (Exercise of the delegation)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: "Sets out the legal parameters and conditions governing the Commission's power to adopt delegated acts amending technical annexes under the AI Act."
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-97
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 97 (Exercise of the delegation) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Sets out the legal parameters and conditions governing the Commission's power to adopt delegated acts amending technical annexes under the AI Act.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

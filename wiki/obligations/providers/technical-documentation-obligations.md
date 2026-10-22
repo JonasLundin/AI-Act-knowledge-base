@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Technical Documentation & Annex IV (Article 11 & 16(c))
 description: Mandates drawing up comprehensive technical documentation demonstrating
   conformity before placing high-risk AI on the market.

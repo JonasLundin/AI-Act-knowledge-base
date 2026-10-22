@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Exclusions and Derogations (Article 2(3)-(12))
 description: Statutory carve-outs for military, defense, national security, scientific
   R&D, and non-commercial open-source AI.

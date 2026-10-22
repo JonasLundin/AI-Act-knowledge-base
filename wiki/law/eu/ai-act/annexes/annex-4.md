@@ -8,6 +8,7 @@ tags:
 - ai-act
 - annex
 - annex-4
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,7 +36,10 @@ x-ai-act:
 Provisions and specifications of Annex IV (Technical Documentation Referred to in Article 11(1)) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Specifies the mandatory technical documentation required for high-risk AI systems: general system description, architecture, algorithms, data requirements, monitoring systems, cybersecurity, and risk management documentation.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 34: Operational obligations of notified bodies'
-description: Legal provisions and requirements of Article 34 (Operational obligations
-  of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Regulates conditions under which notified bodies may subcontract specific tasks or delegate them to subsidiaries while retaining full liability.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-34
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 34 (Operational obligations of notified bodies) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Regulates conditions under which notified bodies may subcontract specific tasks or delegate them to subsidiaries while retaining full liability.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

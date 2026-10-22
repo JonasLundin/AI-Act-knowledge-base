@@ -36,7 +36,7 @@ x-ai-act:
 Safety components in the management and operation of critical digital infrastructure, road traffic, and supply of water, gas, heating and electricity.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 2, AI systems intended to be used as safety components in the management and operation of critical digital infrastructure, road traffic, and the supply of water, gas, heating, and electricity are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)

@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 20: Corrective actions and duty of information'
-description: Legal provisions and requirements of Article 20 (Corrective actions and
-  duty of information) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Obligates providers to immediately take necessary corrective actions to bring non-compliant systems into conformity, withdraw them, disable them, or r.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-20
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 20 (Corrective actions and duty of information) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Obligates providers to immediately take necessary corrective actions to bring non-compliant systems into conformity, withdraw them, disable them, or recall them, and inform relevant authorities.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

@@ -1,10 +1,12 @@
-# Regulatory Authorities and Governance Bodies
+# Authorities
 
-European and national institutional framework responsible for the governance, supervision, and enforcement of the AI Act.
+EU-level governance architecture and supervisory authorities for Regulation (EU) 2024/1689.
 
 ## Concepts
 
-- [Advisory Forum](advisory-forum.md) — Multi-stakeholder body providing commercial and civil society input to the Board and Commission.
-- [European AI Office](ai-office.md) — Central EU administrative body within the Commission overseeing GPAI models, coordinating governance, and enforcing rules.
-- [European Artificial Intelligence Board](european-artificial-intelligence-board.md) — Advisory board composed of representatives from Member States and the EDPS, advising the Commission.
-- [Scientific Panel of Independent Experts](scientific-panel.md) — Advisory body of independent experts alerting the AI Office to systemic risks posed by GPAI models.
+- [European AI Office](ai-office.md) — Central EU administrative body within the Commission overseeing GPAI models and coordinating governance.
+- [European Artificial Intelligence Board](european-artificial-intelligence-board.md) — Advisory board of Member State representatives and the EDPS.
+- [Scientific Panel of Independent Experts](scientific-panel.md) — Technical expert panel advising the AI Office and issuing systemic risk alerts.
+- [Advisory Forum](advisory-forum.md) — Multi-stakeholder consultative body representing industry, SMEs, civil society, and academia.
+- [Notified Bodies (Articles 30-39)](notified-bodies.md) — Independent conformity assessment bodies carrying out Annex VII audits.
+- [Market Surveillance Authorities (Article 70)](market-surveillance.md) — Designated national market surveillance and enforcement authorities.

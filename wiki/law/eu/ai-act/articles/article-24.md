@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 24: Obligations of distributors'
-description: Legal provisions and requirements of Article 24 (Obligations of distributors)
-  under Regulation (EU) 2024/1689 (AI Act).
+description: 'Requires distributors to verify CE marking, documentation, and provider compliance prior to making high-risk AI systems available on the market.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-24
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 24 (Obligations of distributors) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Requires distributors to verify CE marking, documentation, and provider compliance prior to making high-risk AI systems available on the market.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

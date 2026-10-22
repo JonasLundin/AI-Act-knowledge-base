@@ -10,6 +10,7 @@ tags:
 - regulation
 - article
 - article-74
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -36,8 +37,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 74 (Market surveillance and control of AI systems in the Union market) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Specifies the modalities, electronic reporting formats, and corrective measures required following a serious incident report.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

@@ -2,6 +2,6 @@
 
 Regulation (EU) 2026/1744 (Digital Omnibus on AI) and later amending acts, with what each changed.
 
-## Status
+## Concepts
 
-Technical references and guidance for amendments are tracked in associated chapters and supporting standards.
+- [Regulation (EU) 2026/1744 (Digital Omnibus on AI)](regulation-eu-2026-1744.md) — Digital Omnibus amending application dates, Article 5 prohibitions, Article 6 safety components, and Article 111 transitional rules.

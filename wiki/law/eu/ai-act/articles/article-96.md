@@ -10,6 +10,7 @@ tags:
 - regulation
 - article
 - article-96
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -36,8 +37,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 96 (Guidelines from the Commission on the implementation of this Regulation) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Directs the Commission to develop and publish non-binding implementation guidelines clarifying classification rules, prohibited practices, and practical application.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

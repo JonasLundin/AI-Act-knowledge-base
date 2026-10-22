@@ -35,12 +35,11 @@ x-ai-act:
 
 # Summary
 
-**European Artificial Intelligence Board** under Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689].
+**The European Artificial Intelligence Board (AI Board)** is established under Article 65 of Regulation (EU) 2024/1689[^regulation-eu-2024-1689] to ensure consistent application of the AI Act across all Member States.
 
-Advisory board composed of representatives from Member States and the EDPS, advising the Commission.
+# Composition and Operational Governance
 
-# Institutional Role
-Coordinates EU-wide supervisory strategy and technical guidelines.
+The Board is composed of one representative from each Member State and the European Data Protection Supervisor, chaired by the Commission. It advises on harmonised supervisory practices in coordination with the European AI Office[^ai-office], opinions on draft Commission guidelines, technical standards, and cross-border market surveillance coordination to prevent single market fragmentation.
 
 # Related concepts
 - [Authorities Index](index.md)

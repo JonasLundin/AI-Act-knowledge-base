@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: Emotion Recognition and Biometric Categorization Disclosure (Article 50(3))
 description: Mandates deployers to inform natural persons whenever they are exposed
   to emotion recognition or biometric categorization systems.

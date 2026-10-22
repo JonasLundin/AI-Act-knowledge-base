@@ -36,7 +36,7 @@ x-ai-act:
 AI systems used to determine access, admission, assignment, or evaluation of students and learners.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 3, AI systems intended to determine access, admission or assignment of natural persons to educational and vocational training institutions, evaluate learning outcomes, assess appropriate levels of education, or monitor and detect prohibited behavior of students during tests are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)

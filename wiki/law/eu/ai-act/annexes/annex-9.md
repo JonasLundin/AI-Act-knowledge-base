@@ -12,6 +12,7 @@ tags:
 - ai-act
 - annex
 - annex-9
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -39,7 +40,10 @@ x-ai-act:
 Provisions and specifications of Annex IX (Information to be Submitted upon the Registration of High-Risk AI Systems Listed in Annex III in Relation to Testing in Real World Conditions in Accordance with Article 60) under Regulation (EU) 2024/1689 (AI Act).
 
 # Substantive Scope
-Technical and regulatory criteria governing classification, documentation, conformity assessment, and governance.
+
+Specifies the information that must be registered in the EU database when conducting testing of Annex III high-risk AI systems in real-world conditions outside regulatory sandboxes pursuant to Article 60.
+
+> **Research gap:** Detailed clause-by-clause specifications pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Annexes Index](index.md)

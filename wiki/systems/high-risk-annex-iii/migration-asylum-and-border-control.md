@@ -36,7 +36,7 @@ x-ai-act:
 Polygraphs, examination of visa and asylum applications, security risk screening, and border surveillance.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 7, AI systems intended to be used by competent public authorities as polygraphs or similar tools, assess security, irregular entry or health risks, examine asylum applications, or verify identity and travel documents of natural persons are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)

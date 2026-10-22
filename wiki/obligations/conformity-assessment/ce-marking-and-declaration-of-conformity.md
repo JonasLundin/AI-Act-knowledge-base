@@ -1,8 +1,7 @@
 ---
-type: Concept
+type: Requirement
 title: CE Marking and EU Declaration of Conformity (Articles 47-49)
-description: Mandates drawing up the EU Declaration of Conformity under Annex V and
-  affixing the CE marking visibly and legibly.
+description: Mandates drawing up the EU Declaration of Conformity under Annex V and affixing the CE marking visibly and legibly prior to placing high-risk AI on the Union market.
 category: requirement
 tags:
 - ai-act
@@ -16,12 +15,11 @@ status: draft
 generated:
   by: agent:kb-researcher-writer
   at: '2026-09-27T00:00:00Z'
-stale_after: '2027-12-31T00:00:00Z'
+stale_after: '2027-12-02T00:00:00Z'
 sources:
 - id: regulation-eu-2024-1689
   resource: http://data.europa.eu/eli/reg/2024/1689/oj
-  title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence
-    (Artificial Intelligence Act)
+  title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)
   author: European Parliament and Council of the European Union
   last_modified: '2024-07-12T00:00:00Z'
 x-ai-act:
@@ -34,12 +32,15 @@ x-ai-act:
 
 # Summary
 
-Under **Article 47** and **Article 48**, providers of high-risk AI systems that have satisfied conformity assessment must draw up an **EU Declaration of Conformity** (Annex V) and affix the **CE marking** prior to commercial placement[^regulation-eu-2024-1689].
+Under **Article 47** and **Article 48**, providers of high-risk AI systems that have satisfied the relevant conformity assessment procedure must draw up an **EU Declaration of Conformity** (Annex V) and affix the **CE marking** prior to commercial placement or putting into service[^regulation-eu-2024-1689].
 
 # Requirements
 1. **EU Declaration of Conformity (DoC)**: States that the high-risk AI system satisfies Chapter III requirements; maintained for 10 years after placement on market.
 2. **CE Marking Affixing**: Affixed visibly, legibly, and indelibly to the system or its accompanying documentation.
-3. **Notified Body Number**: Accompanied by the 4-digit identification number of the notified body where third-party audit was conducted.
+3. **Notified Body Number**: Accompanied by the 4-digit identification number of the notified body where third-party audit was conducted under Annex VII.
+
+# Cross-Framework Alignment
+For detailed analysis of Union CE marking rules, declarations of conformity, and conformity assessment modules under the New Legislative Framework, see the [Conformity Assessment Knowledge Base](https://github.com/JonasLundin/Conformity-Assessment-knowledge-base).
 
 # Related concepts
 - [Conformity Assessment Index](index.md)

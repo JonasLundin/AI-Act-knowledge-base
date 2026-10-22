@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Guidance
 title: AI Office Code of Practice for General-Purpose AI (Article 56)
 description: Guidelines and voluntary compliance framework developed by the European
   AI Office for GPAI model providers.
@@ -25,7 +25,7 @@ sources:
   last_modified: '2024-07-12T00:00:00Z'
 x-ai-act:
   jurisdiction: EU
-  authority_level: standard
+  authority_level: guidance
   instrument_status: in_force
   provision: Article 56
   checked_at: '2026-09-27T00:00:00Z'

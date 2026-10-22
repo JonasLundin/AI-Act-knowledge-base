@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Requirement
 title: EU Database Registration for High-Risk AI (Articles 49 & 71)
 description: Mandates providers and deployers of certain high-risk AI systems to register
   themselves and the system in the public EU database.

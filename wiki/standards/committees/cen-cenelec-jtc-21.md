@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Standard
 title: CEN-CENELEC JTC 21 Artificial Intelligence Committee
 description: Joint Technical Committee responsible for authoring European Harmonised
   Standards under Standardisation Request M/593.

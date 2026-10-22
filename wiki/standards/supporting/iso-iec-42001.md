@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Standard
 title: ISO/IEC 42001:2023 Artificial Intelligence Management System (AIMS)
 description: International certifiable standard for establishing, implementing, and
   maintaining an AI management system aligned with AI Act QMS requirements.

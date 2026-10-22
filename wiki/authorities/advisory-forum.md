@@ -35,12 +35,11 @@ x-ai-act:
 
 # Summary
 
-**Advisory Forum** under Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689].
+**The Advisory Forum** is established under Article 67 of Regulation (EU) 2024/1689 (AI Act)[^regulation-eu-2024-1689] to advise and provide technical expertise to the European AI Board and the European Commission.
 
-Multi-stakeholder body providing commercial and civil society input to the Board and Commission.
+# Institutional Role and Membership
 
-# Institutional Role
-Coordinates EU-wide supervisory strategy and technical guidelines.
+The Advisory Forum represents a balanced selection of stakeholders, including commercial industry, small and medium-sized enterprises, civil society organisations, academia, and social partners. It delivers expert opinions, stakeholder feedback, and technical advice to ensure that market realities and civil rights considerations are systematically incorporated into Union AI guidance and secondary legislation, liaising regularly with the European AI Office[^ai-office].
 
 # Related concepts
 - [Authorities Index](index.md)

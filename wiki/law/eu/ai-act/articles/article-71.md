@@ -1,14 +1,14 @@
 ---
 type: Law
 title: 'Article 71: EU database for high-risk AI systems listed in Annex III'
-description: Legal provisions and requirements of Article 71 (EU database for high-risk
-  AI systems listed in Annex III) under Regulation (EU) 2024/1689 (AI Act).
+description: 'Mandates the Commission, in collaboration with Member States, to establish and maintain a publicly accessible EU database for high-risk AI systems.'
 category: law
 tags:
 - ai-act
 - regulation
 - article
 - article-71
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +35,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 71 (EU database for high-risk AI systems listed in Annex III) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Mandates the Commission, in collaboration with Member States, to establish and maintain a publicly accessible EU database for high-risk AI systems.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

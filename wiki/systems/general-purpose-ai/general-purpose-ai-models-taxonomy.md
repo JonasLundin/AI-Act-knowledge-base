@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: System
 title: General-Purpose AI Models Taxonomy
 description: Classification of GPAI models into baseline models versus models with
   systemic risk exceeding 10^25 FLOPs.

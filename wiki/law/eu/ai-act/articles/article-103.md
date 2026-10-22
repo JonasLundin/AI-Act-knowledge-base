@@ -9,6 +9,7 @@ tags:
 - regulation
 - article
 - article-103
+research_gap: true
 status: draft
 generated:
   by: agent:antigravity
@@ -35,8 +36,11 @@ x-ai-act:
 
 Legal provisions and requirements of Article 103 (Amendment to Regulation (EU) No 167/2013) under Regulation (EU) 2024/1689 (AI Act).
 
-# Provisions and Scope
-Sets out statutory requirements, obligations, and supervisory mandates under the European AI governance framework.
+# Legal Scope and Substance
+
+Amends Regulation (EU) No 167/2013 on agricultural and forestry vehicles to align AI safety components with type-approval conformity assessments.
+
+> **Research gap:** Detailed paragraph-by-paragraph breakdown pending ingestion from EUR-Lex ELI [http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj).
 
 # Related concepts
 - [Articles Index](index.md)

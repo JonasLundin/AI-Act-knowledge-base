@@ -36,7 +36,7 @@ x-ai-act:
 Individual risk assessment of crime, polygraphs, evidence evaluation, profiling, and predictive analytics in criminal justice.
 
 # Classification Criteria
-Systems deployed in this domain are classified as high-risk under Article 6(2), triggering mandatory provider and deployer obligations unless meeting the Article 6(3) exception.
+Under Annex III point 6, AI systems intended to be used by law enforcement authorities as polygraphs, for evaluating reliability of evidence, assessing risk of reoffending, and profiling natural persons in criminal investigations are classified as high-risk under Article 6(2).
 
 # Related concepts
 - [Annex III Overview](../../law/eu/ai-act/annexes/annex-3.md)

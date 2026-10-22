@@ -1,24 +1,135 @@
 version: 1
 checked_at: '2026-09-27T00:00:00Z'
-total_sources: 2
+total_sources: 14
 sources:
+  ai-office:
+    id: ai-office
+    resource: https://digital-strategy.ec.europa.eu/en/policies/ai-office
+    title: European AI Office Guidelines and Documentation
+    author: European Commission
+    last_modified: '2024-02-21T00:00:00Z'
+    used_by:
+    - authorities/advisory-forum
+    - authorities/ai-office
+    - authorities/european-artificial-intelligence-board
+    - authorities/scientific-panel
+    - guidance/commission-guidelines-article-96
+  commission-decision-c-2023-3215:
+    id: commission-decision-c-2023-3215
+    resource: https://ec.europa.eu/growth/tools-databases/mandates/
+    title: Commission Implementing Decision C(2023) 3215 on a standardisation request to CEN and CENELEC in support of Union
+      policy on artificial intelligence (M/593)
+    author: European Commission
+    last_modified: '2023-05-22T00:00:00Z'
+    used_by:
+    - standards/standardisation-request
+  commission-decision-c-2025-3871:
+    id: commission-decision-c-2025-3871
+    resource: https://ec.europa.eu/growth/tools-databases/mandates/
+    title: Commission Implementing Decision C(2025) 3871 on a standardisation request to CEN and CENELEC in support of Regulation
+      (EU) 2024/1689 (M/613)
+    author: European Commission
+    last_modified: '2025-06-23T00:00:00Z'
+    used_by:
+    - standards/standardisation-request
+    - timeline/standardisation-request-deadline
+  cra-regulation-eu-2024-2847:
+    id: cra-regulation-eu-2024-2847
+    resource: http://data.europa.eu/eli/reg/2024/2847/oj
+    title: Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for products with digital elements (Cyber Resilience
+      Act)
+    author: European Parliament and Council of the European Union
+    last_modified: '2024-11-20T00:00:00Z'
+    used_by:
+    - law/eu/related-legislation/cra-article-12
+  edpb-guidelines-05-2022:
+    id: edpb-guidelines-05-2022
+    resource: https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-052022-use-facial-recognition-technology-area-law_en
+    title: Guidelines 05/2022 on the use of facial recognition technology in the area of law enforcement
+    author: European Data Protection Board
+    last_modified: '2022-05-12T00:00:00Z'
+    used_by:
+    - guidance/european-data-protection-board/edpb-facial-recognition-guidelines
+  iso-iec-23894:
+    id: iso-iec-23894
+    resource: https://www.iso.org/standard/77304.html
+    title: "ISO/IEC 23894:2023 Information technology \u2014 Artificial intelligence \u2014 Guidance on risk management"
+    author: International Organization for Standardization
+    last_modified: '2023-02-01T00:00:00Z'
+    used_by:
+    - standards/supporting/iso-iec-23894
+  iso-iec-24027:
+    id: iso-iec-24027
+    resource: https://www.iso.org/standard/77607.html
+    title: "ISO/IEC TR 24027:2021 Information technology \u2014 Artificial intelligence (AI) \u2014 Bias in AI systems and\
+      \ AI aided decision making"
+    author: International Organization for Standardization
+    last_modified: '2021-11-01T00:00:00Z'
+    used_by:
+    - standards/supporting/iso-iec-24027
+  iso-iec-5338:
+    id: iso-iec-5338
+    resource: https://www.iso.org/standard/81118.html
+    title: "ISO/IEC 5338:2023 Information technology \u2014 Artificial intelligence \u2014 AI system life cycle processes"
+    author: International Organization for Standardization
+    last_modified: '2023-11-01T00:00:00Z'
+    used_by:
+    - standards/supporting/iso-iec-5338
+  machinery-regulation-eu-2023-1230:
+    id: machinery-regulation-eu-2023-1230
+    resource: http://data.europa.eu/eli/reg/2023/1230/oj
+    title: Regulation (EU) 2023/1230 on machinery and repealing Directive 2006/42/EC
+    author: European Parliament and Council of the European Union
+    last_modified: '2023-06-29T00:00:00Z'
+    used_by:
+    - law/eu/related-legislation/machinery-regulation-2023-1230
+  mdr-regulation-eu-2017-745:
+    id: mdr-regulation-eu-2017-745
+    resource: http://data.europa.eu/eli/reg/2017/745/oj
+    title: Regulation (EU) 2017/745 on medical devices (MDR)
+    author: European Parliament and Council of the European Union
+    last_modified: '2017-05-05T00:00:00Z'
+    used_by:
+    - law/eu/related-legislation/mdr-ivdr
+  nlf-decision-768-2008-ec:
+    id: nlf-decision-768-2008-ec
+    resource: http://data.europa.eu/eli/dec/2008/768/oj
+    title: Decision No 768/2008/EC on a common framework for the marketing of products
+    author: European Parliament and Council of the European Union
+    last_modified: '2008-08-13T00:00:00Z'
+    used_by:
+    - law/eu/related-legislation/new-legislative-framework
+  product-liability-directive-eu-2024-2853:
+    id: product-liability-directive-eu-2024-2853
+    resource: http://data.europa.eu/eli/dir/2024/2853/oj
+    title: Directive (EU) 2024/2853 of the European Parliament and of the Council of 23 October 2024 on liability for defective
+      products
+    author: European Parliament and Council of the European Union
+    last_modified: '2024-11-18T00:00:00Z'
+    used_by:
+    - law/eu/related-legislation/product-liability-directive-2024-2853
   regulation-eu-2024-1689:
     id: regulation-eu-2024-1689
     resource: http://data.europa.eu/eli/reg/2024/1689/oj
-    title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence
-      (Artificial Intelligence Act)
+    title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)
     author: European Parliament and Council of the European Union
     last_modified: '2024-07-12T00:00:00Z'
     used_by:
     - authorities/advisory-forum
     - authorities/ai-office
     - authorities/european-artificial-intelligence-board
+    - authorities/market-surveillance
+    - authorities/notified-bodies
     - authorities/scientific-panel
     - glossary/ai-system
     - glossary/general-purpose-ai-model
     - glossary/high-risk-ai-system
     - glossary/risk
+    - guidance/ai-office/gpai-code-of-practice
     - guidance/commission-guidelines-article-96
+    - guidance/european-commission/prohibited-ai-guidelines
+    - guidance/european-data-protection-board/edpb-facial-recognition-guidelines
+    - guidance/national-authorities/market-surveillance-joint-investigations
     - jurisdictions/eea/iceland
     - jurisdictions/eea/liechtenstein
     - jurisdictions/eea/norway
@@ -49,6 +160,7 @@ sources:
     - jurisdictions/eu-member-states/slovenia
     - jurisdictions/eu-member-states/spain
     - jurisdictions/eu-member-states/sweden
+    - law/eu/ai-act/amendments/regulation-eu-2026-1744
     - law/eu/ai-act/annexes/annex-1
     - law/eu/ai-act/annexes/annex-10
     - law/eu/ai-act/annexes/annex-11
@@ -175,14 +287,43 @@ sources:
     - law/eu/ai-act/articles/article-97
     - law/eu/ai-act/articles/article-98
     - law/eu/ai-act/articles/article-99
-    - obligations/deployer-obligations
-    - obligations/fundamental-rights-impact-assessment
-    - obligations/gpai-model-obligations
-    - obligations/provider-obligations
-    - obligations/transparency-obligations
-    - standards/cen-cenelec-jtc-21
-    - standards/iso-iec-42001
-    - systems/general-purpose-ai-models
+    - law/eu/ai-act/secondary-legislation/delegated-acts-gpai-thresholds
+    - law/eu/related-legislation/cra-article-12
+    - law/eu/related-legislation/gdpr-interplay
+    - law/eu/related-legislation/machinery-regulation-2023-1230
+    - law/eu/related-legislation/mdr-ivdr
+    - law/eu/related-legislation/new-legislative-framework
+    - law/eu/related-legislation/product-liability-directive-2024-2853
+    - obligations/conformity-assessment/ce-marking-and-declaration-of-conformity
+    - obligations/conformity-assessment/conformity-assessment-routes
+    - obligations/deployers/deployer-operational-obligations
+    - obligations/deployers/fundamental-rights-impact-assessment
+    - obligations/general-purpose-ai/gpai-baseline-obligations
+    - obligations/general-purpose-ai/gpai-systemic-risk-obligations
+    - obligations/importers-and-distributors/importer-and-distributor-obligations
+    - obligations/post-market-monitoring-and-incidents/post-market-monitoring-and-incident-reporting
+    - obligations/prohibited-practices/article-5-prohibitions-overview
+    - obligations/providers/data-governance-obligations
+    - obligations/providers/quality-management-system
+    - obligations/providers/risk-management-obligations
+    - obligations/providers/technical-documentation-obligations
+    - obligations/registration/eu-database-registration
+    - obligations/scope/exclusions-and-derogations
+    - obligations/scope/material-and-territorial-scope
+    - obligations/transparency/ai-interaction-disclosure
+    - obligations/transparency/deepfake-labelling
+    - obligations/transparency/emotion-recognition-disclosure
+    - obligations/transparency/synthetic-content-marking
+    - standards/committees/cen-cenelec-jtc-21
+    - standards/committees/etsi
+    - standards/committees/iso-iec-jtc-1-sc-42
+    - standards/standardisation-request
+    - standards/supporting/iso-iec-23894
+    - standards/supporting/iso-iec-24027
+    - standards/supporting/iso-iec-42001
+    - standards/supporting/iso-iec-5338
+    - systems/general-purpose-ai/general-purpose-ai-models-taxonomy
+    - systems/high-risk-annex-i/annex-i-safety-components
     - systems/high-risk-annex-iii/access-to-essential-services
     - systems/high-risk-annex-iii/administration-of-justice-and-democratic-processes
     - systems/high-risk-annex-iii/biometrics
@@ -191,21 +332,35 @@ sources:
     - systems/high-risk-annex-iii/employment-and-workers-management
     - systems/high-risk-annex-iii/law-enforcement
     - systems/high-risk-annex-iii/migration-asylum-and-border-control
-    - systems/prohibited-ai-practices
+    - systems/prohibited/prohibited-ai-taxonomy
+    - systems/transparency-risk/transparency-risk-systems-taxonomy
     - timeline/annex-i-products-application
+    - timeline/article-112-review-evaluation
+    - timeline/article-50-transparency-application
     - timeline/entry-into-force
     - timeline/gpai-governance-application
     - timeline/high-risk-application
     - timeline/prohibited-practices-application
-  ai-office:
-    id: ai-office
-    resource: https://digital-strategy.ec.europa.eu/en/policies/ai-office
-    title: European AI Office Guidelines and Documentation
-    author: European Commission
-    last_modified: '2024-02-21T00:00:00Z'
+    - timeline/standardisation-request-deadline
+  regulation-eu-2026-1744:
+    id: regulation-eu-2026-1744
+    resource: http://data.europa.eu/eli/reg/2026/1744/oj
+    title: Regulation (EU) 2026/1744 of the European Parliament and of the Council of 24 July 2026 amending Regulations (EU)
+      2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards certain application dates and safety components of AI systems
+    author: European Parliament and Council of the European Union
+    last_modified: '2026-07-08T00:00:00Z'
     used_by:
-    - authorities/advisory-forum
-    - authorities/ai-office
-    - authorities/european-artificial-intelligence-board
-    - authorities/scientific-panel
-    - guidance/commission-guidelines-article-96
+    - guidance/european-commission/prohibited-ai-guidelines
+    - law/eu/ai-act/amendments/regulation-eu-2026-1744
+    - law/eu/ai-act/articles/article-111
+    - law/eu/ai-act/articles/article-113
+    - law/eu/ai-act/articles/article-5
+    - law/eu/ai-act/articles/article-50
+    - law/eu/ai-act/articles/article-6
+    - law/eu/ai-act/articles/article-99
+    - obligations/prohibited-practices/article-5-prohibitions-overview
+    - systems/prohibited/prohibited-ai-taxonomy
+    - timeline/annex-i-products-application
+    - timeline/article-50-transparency-application
+    - timeline/high-risk-application
+    - timeline/omnibus-regulation-entry-into-force

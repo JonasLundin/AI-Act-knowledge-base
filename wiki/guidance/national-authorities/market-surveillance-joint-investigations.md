@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Guidance
 title: Market Surveillance and Cross-Border Investigations
 description: Operational guidance on market surveillance powers, joint investigations,
   and AI regulatory sandboxes across Member States.
@@ -24,7 +24,7 @@ sources:
   last_modified: '2024-07-12T00:00:00Z'
 x-ai-act:
   jurisdiction: EU
-  authority_level: standard
+  authority_level: guidance
   instrument_status: in_force
   provision: Articles 74-76
   checked_at: '2026-09-27T00:00:00Z'

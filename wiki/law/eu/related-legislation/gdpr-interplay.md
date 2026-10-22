@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Law
 title: Interplay with GDPR and Fundamental Rights Law
 description: Harmonization, consistency principles, and legal boundaries between the
   AI Act and Regulation (EU) 2016/679 (GDPR).
@@ -41,6 +41,6 @@ The AI Act operates without prejudice to Union data protection legislation, spec
 
 # Related concepts
 - [Related Legislation Index](index.md)
-- [Fundamental Rights Impact Assessment](../../../obligations/deployers/deployer-operational-obligations.md)
+- [Fundamental Rights Impact Assessment](/obligations/deployers/deployer-operational-obligations.md)
 
 [^regulation-eu-2024-1689]: European Parliament and Council of the European Union, Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), http://data.europa.eu/eli/reg/2024/1689/oj

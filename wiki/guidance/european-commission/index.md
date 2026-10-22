@@ -1,7 +1,7 @@
-# European Commission
+# Commission Guidelines
 
-Guidelines on the AI-system definition, prohibited practices, GPAI obligations and Article 50.
+Guidelines issued by the European Commission under Article 96 of the AI Act.
 
 ## Concepts
 
-- [Commission Guidelines on Prohibited AI Practices (Article 96)](prohibited-ai-guidelines.md) — Practical guidance issued by the European Commission interpreting the 8 prohibited AI practices under Article 5.
+- [Commission Guidelines on Prohibited AI Practices (Article 96)](prohibited-ai-guidelines.md) — Practical guidance issued by the European Commission interpreting the 10 prohibited AI practices under Article 5.
